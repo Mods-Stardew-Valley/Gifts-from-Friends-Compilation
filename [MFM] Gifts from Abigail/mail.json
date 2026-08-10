@@ -1,6 +1,7 @@
 [
   {
     "Id": "MailAbigail01",
+    "GroupId": "AbigailLetters",
     "Text": "MailAbigail01",
     "Attachments": [
       {
@@ -23,6 +24,7 @@
   },
   {
     "Id": "MailAbigail02",
+    "GroupId": "AbigailLetters",
     "Text": "MailAbigail02",
     "Attachments": [
       {
@@ -41,13 +43,11 @@
         "NpcName": "Abigail",
         "FriendshipLevel": 2
       }
-    ],
-    "MailReceived": [
-      "MailAbigail01"
     ]
   },
   {
     "Id": "MailAbigail03",
+    "GroupId": "AbigailLetters",
     "Text": "MailAbigail03",
     "Attachments": [
       {
@@ -66,13 +66,11 @@
         "NpcName": "Abigail",
         "FriendshipLevel": 3
       }
-    ],
-    "MailReceived": [
-      "MailAbigail02"
     ]
   },
   {
     "Id": "MailAbigail04",
+    "GroupId": "AbigailLetters",
     "Text": "MailAbigail04",
     "Attachments": [
       {
@@ -91,13 +89,11 @@
         "NpcName": "Abigail",
         "FriendshipLevel": 4
       }
-    ],
-    "MailReceived": [
-      "MailAbigail03"
     ]
   },
   {
     "Id": "MailAbigail05",
+    "GroupId": "AbigailLetters",
     "Text": "MailAbigail05",
     "Attachments": [
       {
@@ -116,13 +112,11 @@
         "NpcName": "Abigail",
         "FriendshipLevel": 5
       }
-    ],
-    "MailReceived": [
-      "MailAbigail04"
     ]
   },
   {
     "Id": "MailAbigail06",
+    "GroupId": "AbigailLetters",
     "Text": "MailAbigail06",
     "Attachments": [
       {
@@ -148,6 +142,7 @@
   },
   {
     "Id": "MailAbigail07",
+    "GroupId": "AbigailLetters",
     "Text": "MailAbigail07",
     "Attachments": [
       {
@@ -166,13 +161,11 @@
         "NpcName": "Abigail",
         "FriendshipLevel": 7
       }
-    ],
-    "MailReceived": [
-      "MailAbigail06"
     ]
   },
   {
     "Id": "MailAbigail08",
+    "GroupId": "AbigailLetters",
     "Text": "MailAbigail08",
     "Attachments": [
       {
@@ -191,13 +184,11 @@
         "NpcName": "Abigail",
         "FriendshipLevel": 8
       }
-    ],
-    "MailReceived": [
-      "MailAbigail07"
     ]
   },
   {
     "Id": "MailAbigail09",
+    "GroupId": "AbigailLetters",
     "Text": "MailAbigail09",
     "Attachments": [
       {
@@ -216,13 +207,11 @@
         "NpcName": "Abigail",
         "FriendshipLevel": 9
       }
-    ],
-    "MailReceived": [
-      "MailAbigail08"
     ]
   },
   {
     "Id": "MailAbigail10",
+    "GroupId": "AbigailLetters",
     "Text": "MailAbigail10",
     "Attachments": [
       {
@@ -241,9 +230,6 @@
         "NpcName": "Abigail",
         "FriendshipLevel": 10
       }
-    ],
-    "MailReceived": [
-      "MailAbigail09"
     ]
   }
 ]
