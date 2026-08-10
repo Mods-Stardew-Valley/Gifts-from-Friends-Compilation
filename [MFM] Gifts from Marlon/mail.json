@@ -13,17 +13,17 @@
 			"MailMarlon08",
 			"MailMarlon09",
 			"MailMarlon10"
-		],
+		]
 	},
 
 	{	"Id": "MailMarlon01",
 		"Text": "MailMarlon01",
 		"Attachments": [ 
 		{ "Type": "Object", "Name": "Wood", "Stack": 1 },  
-		{ "Type": "Object", "Name": "Sap", "Stack": 2 },
+		{ "Type": "Object", "Name": "Sap", "Stack": 2 }
 		],
 		
-		"SkillConditions": [ { "SkillName": "Combat", "SkillLevel": 1 } ], 
+		"SkillConditions": [ { "SkillName": "Combat", "SkillLevel": 1 } ]
 	},
 	
 	{	"Id": "MailMarlon02",
@@ -31,33 +31,33 @@
 		//Campfire
 		"Attachments": [ 
 			{ "Type": "BigCraftable", "Index": "146", "Stack": 1 },
-			{ "Type": "Ring", "Name": "Small Glow Ring", "Stack": 1 },
+			{ "Type": "Ring", "Name": "Small Glow Ring", "Stack": 1 }
 			],
 		
 		"SkillConditions": [ { "SkillName": "Combat", "SkillLevel": 2 } ], 
-		"MailReceived": ["MailMarlon01"],
+		"MailReceived": ["MailMarlon01"]
 	},
 	
 	{	"Id": "MailMarlon03",
 		"Text": "MailMarlon03",
 		"Attachments": [ 
 			{ "Type": "Object", "Name": "Field Snack", "Stack": 1 },
-			{ "Type": "Ring", "Name": "Small Magnet Ring", "Stack": 1 },
+			{ "Type": "Ring", "Name": "Small Magnet Ring", "Stack": 1 }
 			],
 	
 		"SkillConditions": [ { "SkillName": "Combat", "SkillLevel": 3 } ], 
-		"MailReceived": ["MailMarlon02"],
+		"MailReceived": ["MailMarlon02"]
 	},
 	
 	{	"Id": "MailMarlon04",
 		"Text": "MailMarlon04",
 		"Attachments": [ 
 			{ "Type": "Object", "Name": "Cookout Kit", "Stack": 1 }, 
-			{ "Type": "Ring", "Name": "Glow Ring", "Stack": 1 }, 
+			{ "Type": "Ring", "Name": "Glow Ring", "Stack": 1 }
 			],
 		
 		"SkillConditions": [ { "SkillName": "Combat", "SkillLevel": 4 } ], 
-		"MailReceived": ["MailMarlon03"],
+		"MailReceived": ["MailMarlon03"]
 	},
 	
 	{	"Id": "MailMarlon05",
@@ -65,55 +65,55 @@
 		//Farm Totem
 		"Attachments": [ 
 			{ "Type": "Object", "Index": 688,	"Stack": 1	},	
-			{ "Type": "Ring", "Name": "Magnet Ring", "Stack": 1 },
+			{ "Type": "Ring", "Name": "Magnet Ring", "Stack": 1 }
 			],
 			
 		"SkillConditions": [ { "SkillName": "Combat", "SkillLevel": 5 } ], 
-		"MailReceived": ["MailMarlon04"],
+		"MailReceived": ["MailMarlon04"]
 	},
 	
     {	"Id": "MailMarlon06",
 		"Text": "MailMarlon06",
 		"Attachments": [ 
 			{ "Type": "Object", "Name": "Fried Mushroom", "Stack": 1 }, 
-			{ "Type": "Object", "Name": "Oil of Garlic", "Stack": 1 }, 
+			{ "Type": "Object", "Name": "Oil of Garlic", "Stack": 1 }
 			],
 			
 		"SkillConditions": [ { "SkillName": "Combat", "SkillLevel": 6 } ], 
-		"MailReceived": ["MailMarlon05"],
+		"MailReceived": ["MailMarlon05"]
 	},
 	
     {	"Id": "MailMarlon07",
 		"Text": "MailMarlon07",
 		"Attachments": [ 
 			{ "Type": "Ring", "Name": "Glowstone Ring", "Stack": 1 }, 
-			{ "Type": "Object", "Name": "Life Elixir", "Stack": 1 }, 
+			{ "Type": "Object", "Name": "Life Elixir", "Stack": 1 }
 			],
 		
 		"SkillConditions": [ { "SkillName": "Combat", "SkillLevel": 7 } ], 
-		"MailReceived": ["MailMarlon06"],
+		"MailReceived": ["MailMarlon06"]
 	},
 	
 	{	"Id": "MailMarlon08",
 		"Text": "MailMarlon08",
 		"Attachments": [ 
 		{ "Type": "Object", "Name": "Crab Cakes", "Stack": 1 },
-		{ "Type": "Ring", "Name": "Iridium Band", "Stack": 1 },
+		{ "Type": "Ring", "Name": "Iridium Band", "Stack": 1 }
 		],
 		
 		"SkillConditions": [ { "SkillName": "Combat", "SkillLevel": 8 } ], 
-		"MailReceived": ["MailMarlon07"],
+		"MailReceived": ["MailMarlon07"]
 	},
 
     {	"Id": "MailMarlon09",
 		"Text": "MailMarlon09",
 		"Attachments": [
 		{ "Type": "Object", "Name": "Pumpkin Soup", "Stack": 1 },
-		{ "Type": "Object", "Name": "Tent Kit", "Stack": 1 },
+		{ "Type": "Object", "Name": "Tent Kit", "Stack": 1 }
 		],
 		
 		"SkillConditions": [ { "SkillName": "Combat", "SkillLevel": 9 } ], 
-		"MailReceived": ["MailMarlon08"],
+		"MailReceived": ["MailMarlon08"]
 	},
  
 	{	"Id": "MailMarlon10",
@@ -121,11 +121,11 @@
 		"Attachments": [
 		{ "Type": "Object", "Name": "Purple Slime Egg", "Stack": 1	},
 		{ "Type": "Object", "Name": "Monster Musk", "Stack": 1	},
-		{ "Type": "Ring", "Name": "Lucky Ring", "Stack": 1	},
+		{ "Type": "Ring", "Name": "Lucky Ring", "Stack": 1	}
 		],
 	
 		"SkillConditions": [ { "SkillName": "Combat", "SkillLevel": 10 } ], 
 		"MailReceived": ["MailMarlon09"]
-	},
+	}
 ]
  

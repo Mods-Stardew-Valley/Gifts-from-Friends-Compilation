@@ -1,9 +1,7 @@
 [
-{	"Id":"ResetEmily",
-	//"Text": "O reset do mod^^Gifts From Emily^^Foi feito com sucesso!",
+{	"Id":"ResetEmily1",
 	"AutoOpen": true,
-	"MailNotReceived": ["ResetEmily"],
-	   
+	"MailNotReceived": ["ResetEmily1"], 
 	"MailReceivedToRemove": [
 	   "GiftsFromEmily_Lv1",
    	   "GiftsFromEmily_Lv1_Sewing",
@@ -25,8 +23,8 @@
    	   "GiftsFromEmily_Lv9_Sewing",
 	   "GiftsFromEmily_Lv10",
    	   "GiftsFromEmily_Lv10_Sewing",
-	],
-	//"AdditionalMailReceived": ["ResetEmily"],
+     "ResetEmily"  
+	]
 },
 
   {
@@ -36,7 +34,7 @@
       { "Type": "Object", "Name": "Quartz",  "Index": "80", "Stack": 1 }, // Quartzo
       { "Type": "Object", "Name": "Torch",   "Index": "93", "Stack": 1 }  // Tocha
     ],
-    "ExpandedPreconditions": ["f Emily 250"],
+    "ExpandedPreconditions": ["f Emily 250"]
   },
 
   {
@@ -46,7 +44,7 @@
       { "Type": "Object", "Name": "Fiber", "Index": "771", "Stack": 15 } // Fibra
     ],
     "ExpandedPreconditions": ["f Emily 250/e 591"],
-	"MailReceived": ["GiftsFromEmily_Lv1"],
+	"MailReceived": ["GiftsFromEmily_Lv1"]
 	
   },
 
@@ -58,7 +56,7 @@
       { "Type": "Object", "Name": "Cauliflower Seeds",  "Index": "474", "Stack": 1 }  // Semente de Couve-Flor
     ],
     "ExpandedPreconditions": ["f Emily 500"],
-	"MailReceived": ["GiftsFromEmily_Lv1"],
+	"MailReceived": ["GiftsFromEmily_Lv1"]
    },
 
   {
@@ -68,7 +66,7 @@
       { "Type": "Object", "Name": "Wool", "Index": "440", "Stack": 1 } // Lã
     ],
     "ExpandedPreconditions": ["f Emily 500/e 591"],
-	"MailReceived": ["GiftsFromEmily_Lv1_Sewing"],
+	"MailReceived": ["GiftsFromEmily_Lv1_Sewing"]
   },
 
   {
@@ -79,7 +77,7 @@
       { "Type": "Object", "Name": "Fiddlehead Fern", "Index": "259", "Stack": 1 }  // Espora de Samambaia
     ],
     "ExpandedPreconditions": ["f Emily 750"],
-	"MailReceived": ["GiftsFromEmily_Lv2"],
+	"MailReceived": ["GiftsFromEmily_Lv2"]
   },
 
   {
@@ -89,7 +87,7 @@
       { "Type": "Boots", "Name": "Rubber Boots", "Index": "506", "Stack": 1 } // Botas de Borracha
     ],
     "ExpandedPreconditions": ["f Emily 750/e 591"],
-	"MailReceived": ["GiftsFromEmily_Lv2_Sewing"],
+	"MailReceived": ["GiftsFromEmily_Lv2_Sewing"]
   },
 
   {
@@ -100,7 +98,7 @@
       { "Type": "BigCraftable",  "Name": "House Plant", "Index": "0", "Stack": 1 }  // Planta de Interior
     ],
     "ExpandedPreconditions": ["f Emily 1000"],
-	"MailReceived": ["GiftsFromEmily_Lv3"],
+	"MailReceived": ["GiftsFromEmily_Lv3"]
   },
 
   {
@@ -110,7 +108,7 @@
       { "Type": "Object", "Name": "Winter Root", "Index": "412", "Stack": 1 } // Raiz de Inverno
     ],
     "ExpandedPreconditions": ["f Emily 1000/e 591"],
-	"MailReceived": ["GiftsFromEmily_Lv3_Sewing"],
+	"MailReceived": ["GiftsFromEmily_Lv3_Sewing"]
   },
 
   {
@@ -121,7 +119,7 @@
       { "Type": "Object", "Name": "Earth Crystal", "Index": "86", "Stack": 1 }  // Cristal de Terra
     ],
     "ExpandedPreconditions": ["f Emily 1250"],
-	"MailReceived": ["GiftsFromEmily_Lv4"],
+	"MailReceived": ["GiftsFromEmily_Lv4"]
   },
 
   {
@@ -131,7 +129,7 @@
       { "Type": "Object", "Name": "Cloth", "Index": "428", "Stack": 1 } // Tecido
     ],
     "ExpandedPreconditions": ["f Emily 1250/e 591"],
-	"MailReceived": ["GiftsFromEmily_Lv4_Sewing"],
+	"MailReceived": ["GiftsFromEmily_Lv4_Sewing"]
   },
 
   {
@@ -141,7 +139,7 @@
       { "Type": "Object", "Name": "Jade", "Index": "56", "Stack": 1 } // Jade
     ],
     "ExpandedPreconditions": ["f Emily 1500"],
-	"MailReceived": ["GiftsFromEmily_Lv5"],
+	"MailReceived": ["GiftsFromEmily_Lv5"]
   },
 
   {
@@ -152,7 +150,7 @@
       { "Type": "Boots", "Name": "Sneakers", "Index": "504", "Stack": 1 }  // Tênis de Treino 
     ],
     "ExpandedPreconditions": ["f Emily 1500/e 591"],
-	"MailReceived": ["GiftsFromEmily_Lv5_Sewing"],
+	"MailReceived": ["GiftsFromEmily_Lv5_Sewing"]
   },
 
   {
@@ -163,7 +161,7 @@
       { "Type": "Object", "Name": "Sunflower",        "Index": "421", "Stack": 1 }  // Girassol
     ],
     "ExpandedPreconditions": ["f Emily 1750"],
-	"MailReceived": ["GiftsFromEmily_Lv6"],
+	"MailReceived": ["GiftsFromEmily_Lv6"]
   },
 
   {
@@ -173,7 +171,7 @@
       { "Type": "Object", "Name": "Red Mushroom", "Index": "257", "Stack": 1 } // Amanita Vermelha
     ],
     "ExpandedPreconditions": ["f Emily 1750/e 591"],
-	"MailReceived": ["GiftsFromEmily_Lv6_Sewing"],
+	"MailReceived": ["GiftsFromEmily_Lv6_Sewing"]
   },
 
   {
@@ -184,7 +182,7 @@
       { "Type": "Object", "Name": "Tulip",        "Index": "422", "Stack": 1 }  // Tulipa Roxa
     ],
     "ExpandedPreconditions": ["f Emily 2000"],
-	"MailReceived": ["GiftsFromEmily_Lv7"],
+	"MailReceived": ["GiftsFromEmily_Lv7"]
   },
 
   {
@@ -194,7 +192,7 @@
       { "Type": "Object", "Name": "Wild Plum", "Index": "406", "Stack": 1 } // Ameixa Selvagem
     ],
     "ExpandedPreconditions": ["f Emily 2000/e 591"],
-	"MailReceived": ["GiftsFromEmily_Lv7_Sewing"],
+	"MailReceived": ["GiftsFromEmily_Lv7_Sewing"]
   },
 
   {
@@ -205,7 +203,7 @@
       { "Type": "Object", "Name": "Juice",           "Index": "614", "Stack": 1 }  // Suco de Frutas
     ],
     "ExpandedPreconditions": ["f Emily 2250"],
-	"MailReceived": ["GiftsFromEmily_Lv8"],
+	"MailReceived": ["GiftsFromEmily_Lv8"]
   },
 
   {
@@ -215,7 +213,7 @@
       { "Type": "Object", "Name": "Rainbow Shell", "Index": "394", "Stack": 1 } // Concha Arco-Íris
     ],
     "ExpandedPreconditions": ["f Emily 2250/e 591"],
-	"MailReceived": ["GiftsFromEmily_Lv8_Sewing"],
+	"MailReceived": ["GiftsFromEmily_Lv8_Sewing"]
   },
 
   {
@@ -226,7 +224,7 @@
       { "Type": "Object", "Name": "Wool", "Index": "440", "Stack": 1 }  // La
     ],
     "ExpandedPreconditions": ["f Emily 2500"],
-	"MailReceived": ["GiftsFromEmily_Lv9"],
+	"MailReceived": ["GiftsFromEmily_Lv9"]
   },
 
   {

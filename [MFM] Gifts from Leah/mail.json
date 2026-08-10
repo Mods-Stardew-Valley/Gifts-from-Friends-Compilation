@@ -7,15 +7,14 @@
 				"Type": "Object",
 				"Name": "Poppy Seeds",
 				"Stack": 10
-			},
+			}
 		],
-    "Repeatable": false,
 		"FriendshipConditions": [
 			{
 				"NpcName": "Leah",
 				"FriendshipLevel": 1
 			}
-		],
+		]
 	}, 
 	{
 		"Id": "MailLeah02",
@@ -25,15 +24,14 @@
 				"Type": "BigCraftable",
 				"Name": "Carved Brazier",
 				"Stack": 1
-			},
+			}
 		],
-    "Repeatable": false,
 		"FriendshipConditions": [
 			{
 				"NpcName": "Leah",
 				"FriendshipLevel": 2
 			}
-		],
+		]
 	}, 
 	{
 		"Id": "MailLeah03",
@@ -43,15 +41,14 @@
 				"Type": "Object",
 				"Name": "Kale",
 				"Stack": 3
-			},
+			}
 		],
-    "Repeatable": false,
 		"FriendshipConditions": [
 			{
 				"NpcName": "Leah",
 				"FriendshipLevel": 3
 			}
-		],
+		]
 	}, 
 	{
 		"Id": "MailLeah04",
@@ -61,15 +58,14 @@
 				"Type": "Object",
 				"Name": "Salad",
 				"Stack": 1
-			},
+			}
 		],
-    "Repeatable": false,
 		"FriendshipConditions": [
 			{
 				"NpcName": "Leah",
 				"FriendshipLevel": 4
 			}
-		],
+		]
 	}, 
 	{
 		"Id": "MailLeah05",
@@ -80,15 +76,14 @@
 				"Type": "Object",
 				"Name": "Apricot Sapling",
 				"Stack": 1
-			},
+			}
 		],
-    "Repeatable": false,
 		"FriendshipConditions": [
 			{
 				"NpcName": "Leah",
 				"FriendshipLevel": 5
 			}
-		],
+		]
 	}, 
 	{
 		"Id": "MailLeah06",
@@ -99,15 +94,14 @@
 				"Type": "Object",
 				"Name": "Cherry Sapling",
 				"Stack": 1
-			},
+			}
 		],
-    "Repeatable": false,
 		"FriendshipConditions": [
 			{
 				"NpcName": "Leah",
 				"FriendshipLevel": 6
 			}
-		],
+		]
 	}, 
 	{
 		"Id": "MailLeah07",
@@ -118,15 +112,14 @@
 				"Type": "Object",
 				"Name": "Orange Sapling",
 				"Stack": 1
-			},
+			}
 		],
-    "Repeatable": false,
 		"FriendshipConditions": [
 			{
 				"NpcName": "Leah",
 				"FriendshipLevel": 7
 			}
-		],
+		]
 	}, 
 	{
 		"Id": "MailLeah08",
@@ -137,15 +130,14 @@
 				"Type": "Object",
 				"Name": "Peach Sapling",
 				"Stack": 1
-			},
+			}
 		],
-    "Repeatable": false,
 		"FriendshipConditions": [
 			{
 				"NpcName": "Leah",
 				"FriendshipLevel": 8
 			}
-		],
+		]
 	}, 
 	{
 		"Id": "MailLeah09",
@@ -156,15 +148,14 @@
 				"Type": "Object",
 				"Name": "Pomegranate Sapling",
 				"Stack": 1
-			},
+			}
 		],
-    "Repeatable": false,
 		"FriendshipConditions": [
 			{
 				"NpcName": "Leah",
 				"FriendshipLevel": 9
 			}
-		],
+		]
 	}, 
 	{
 		"Id": "MailLeah10",
@@ -175,15 +166,13 @@
 				"Type": "Object",
 				"Name": "Apple Sapling",
 				"Stack": 1
-			},
+			}
 		],
-    "Repeatable": false,
 		"FriendshipConditions": [
 			{
 				"NpcName": "Leah",
 				"FriendshipLevel": 10
 			}
-		],
-	}, 
+		]
+	}
 ]
- 

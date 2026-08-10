@@ -7,15 +7,14 @@
 				"Type": "Object",
 				"Name": "Mixed Seeds",
 				"Stack": 10
-			},
+			}
 		],
-    "Repeatable": false,
 		"FriendshipConditions": [
 			{
 				"NpcName": "Pierre",
 				"FriendshipLevel": 1
 			}
-		],
+		]
 	},
 	{
 		"Id": "MailPierre02",
@@ -25,15 +24,14 @@
 				"Type": "Object",
 				"Name": "Basic Fertilizer",
 				"Stack": 10
-			},
+			}
 		],
-    "Repeatable": false,
 		"FriendshipConditions": [
 			{
 				"NpcName": "Pierre",
 				"FriendshipLevel": 2
 			}
-		],
+		]
 	},
 	{
 		"Id": "MailPierre03",
@@ -43,15 +41,14 @@
 				"Type": "Object",
 				"Name": "Coffee Bean",
 				"Stack": 10
-			},
+			}
 		],
-    "Repeatable": false,
 		"FriendshipConditions": [
 			{
 				"NpcName": "Pierre",
 				"FriendshipLevel": 3
 			}
-		],
+		]
 	},
 	{
 		"Id": "MailPierre04",
@@ -61,15 +58,14 @@
 				"Type": "BigCraftable",
 				"Name": "Seed Maker",
 				"Stack": 1
-			},
+			}
 		],
-    "Repeatable": false,
 		"FriendshipConditions": [
 			{
 				"NpcName": "Pierre",
 				"FriendshipLevel": 4
 			}
-		],
+		]
 	},
 	{
 		"Id": "MailPierre05",
@@ -79,15 +75,14 @@
 				"Type": "Object",
 				"Name": "Mixed Seeds",
 				"Stack": 100
-			},
+			}
 		],
-    "Repeatable": false,
 		"FriendshipConditions": [
 			{
 				"NpcName": "Pierre",
 				"FriendshipLevel": 5
 			}
-		],
+		]
 	},
 	{
 		"Id": "MailPierre06",
@@ -97,15 +92,14 @@
 				"Type": "Object",
 				"Name": "Basic Fertilizer",
 				"Stack": 100
-			},
+			}
 		],
-    "Repeatable": false,
 		"FriendshipConditions": [
 			{
 				"NpcName": "Pierre",
 				"FriendshipLevel": 6
 			}
-		],
+		]
 	},
 	{
 		"Id": "MailPierre07",
@@ -115,15 +109,14 @@
 				"Type": "Object",
 				"Name": "Quality Fertilizer",
 				"Stack": 10
-			},
+			}
 		],
-    "Repeatable": false,
 		"FriendshipConditions": [
 			{
 				"NpcName": "Pierre",
 				"FriendshipLevel": 7
 			}
-		],
+		]
 	},
 	{
 	"Id": "MailPierre08",
@@ -133,15 +126,14 @@
 				"Type": "Object",
 				"Name": "Quality Fertilizer",
 				"Stack": 100
-			},
+			}
 		],
-    "Repeatable": false,
 		"FriendshipConditions": [
 			{
 				"NpcName": "Pierre",
 				"FriendshipLevel": 8
 			}
-		],
+		]
 	},
 	{
 		"Id": "MailPierre09",
@@ -151,15 +143,14 @@
 				"Type": "Object",
 				"Name": "Ancient Seeds",
 				"Stack": 10
-			},
+			}
 		],
-    "Repeatable": false,
 		"FriendshipConditions": [
 			{
 				"NpcName": "Pierre",
 				"FriendshipLevel": 9
 			}
-		],
+		]
 	},
 	{
 		"Id": "MailPierre10",
@@ -169,16 +160,13 @@
 				"Type": "Object",
 				"Name": "Rare Seed",
 				"Stack": 10
-			},
+			}
 		],
-    "Repeatable": false,
 		"FriendshipConditions": [
 			{
 				"NpcName": "Pierre",
 				"FriendshipLevel": 10
 			}
-		],
-	},
-	
+		]
+	}
 ]
- 

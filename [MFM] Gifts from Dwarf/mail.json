@@ -19,8 +19,7 @@
         "NpcName": "Dwarf",
         "FriendshipLevel": 1
       }
-    ],
-
+    ]
   },
   {
     "Id": "MailDwarf02",
@@ -45,8 +44,7 @@
     ],
     "MailReceived": [
       "MailDwarf01"
-    ],
-
+    ]
   },
   {
     "Id": "MailDwarf03",
@@ -71,8 +69,7 @@
     ],
     "MailReceived": [
       "MailDwarf02"
-    ],
-
+    ]
   },
   {
     "Id": "MailDwarf04",
@@ -97,8 +94,7 @@
     ],
     "MailReceived": [
       "MailDwarf03"
-    ],
-
+    ]
   },
   {
     "Id": "MailDwarf05",
@@ -123,8 +119,7 @@
     ],
     "MailReceived": [
       "MailDwarf04"
-    ],
-
+    ]
   },
   {
     "Id": "MailDwarf06",
@@ -149,8 +144,7 @@
     ],
     "MailReceived": [
       "MailDwarf05"
-    ],
-
+    ]
   },
   {
     "Id": "MailDwarf07",
@@ -175,8 +169,7 @@
     ],
     "MailReceived": [
       "MailDwarf06"
-    ],
-
+    ]
   },
   {
     "Id": "MailDwarf08",
@@ -201,8 +194,7 @@
     ],
     "MailReceived": [
       "MailDwarf07"
-    ],
-
+    ]
   },
   {
     "Id": "MailDwarf09",
@@ -227,8 +219,7 @@
     ],
     "MailReceived": [
       "MailDwarf08"
-    ],
-
+    ]
   },
   {
     "Id": "MailDwarf10",
@@ -253,7 +244,6 @@
     ],
     "MailReceived": [
       "MailDwarf09"
-    ],
-
+    ]
   }
 ]
