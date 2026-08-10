@@ -375,3 +375,28 @@ Todas as modificações e alterações foram salvas no repositório principal es
 
 
 
+
+## Unreleased
+
+
+### Outras alterações
+
+#### Update no Mod da Caroline
+
+corrihidas as chaves erradas em varios idiomas e adicionados novos idiomas, melhorado codigo interno no mail.json para cartas em cadeia uma por dia
+
+
+
+### 📚 Documentação
+
+#### atualiza CHANGELOG.md [skip ci]
+
+
+
+### 🔧 Manutenção
+
+#### sincroniza README.md <-> README.bbcode [skip ci]
+
+
+
+
