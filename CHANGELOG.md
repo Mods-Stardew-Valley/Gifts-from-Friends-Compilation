@@ -381,13 +381,25 @@ Todas as modificações e alterações foram salvas no repositório principal es
 
 ### Outras alterações
 
+#### Merge branch 'main' of https://github.com/Mods-Stardew-Valley/Gifts-from-Friends-Compilation
+
+
 #### Update no Mod da Caroline
 
 corrihidas as chaves erradas em varios idiomas e adicionados novos idiomas, melhorado codigo interno no mail.json para cartas em cadeia uma por dia
 
 
 
+### ⚡ Desempenho
+
+#### Implementado "GroupId"
+
+
+
 ### 📚 Documentação
+
+#### atualiza CHANGELOG.md [skip ci]
+
 
 #### atualiza CHANGELOG.md [skip ci]
 
