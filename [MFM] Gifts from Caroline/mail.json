@@ -1,184 +1,72 @@
 [
 	{
 		"Id": "MailCaroline01",
+		"GroupId": "CarolineLetters",
 		"Text": "MailCaroline01",
-		"Attachments": [
-			{
-				"Type": "Object",
-				"Name": "Basic Retaining Soil",
-				"Stack": 10
-			},
-		],
-    "Repeatable": false,
-		"FriendshipConditions": [
-			{
-				"NpcName": "Caroline",
-				"FriendshipLevel": 1
-			}
-		],
+		"Attachments": [ { "Type": "Object",	"Name": "Basic Retaining Soil",	"Stack": 10	} ],
+    	"FriendshipConditions": [ { "NpcName": "Caroline", "FriendshipLevel": 1 } ]
 	},
 	{
 		"Id": "MailCaroline02",
+		"GroupId": "CarolineLetters",
 		"Text": "MailCaroline02",
-		"Attachments": [
-			{
-				"Type": "Object",
-				"Name": "Mixed Seeds",
-				"Stack": 10
-			},
-		],
-    "Repeatable": false,
-		"FriendshipConditions": [
-			{
-				"NpcName": "Caroline",
-				"FriendshipLevel": 2
-			}
-		],
+		"Attachments": [ { "Type": "Object", "Name": "Mixed Seeds", "Stack": 10 } ],
+    	"FriendshipConditions": [ {	"NpcName": "Caroline", "FriendshipLevel": 2	} ]
 	},
 	{
 		"Id": "MailCaroline03",
+		"GroupId": "CarolineLetters",
 		"Text": "MailCaroline03",
-		"Attachments": [
-			{
-			"Type": "Object",
-			"Name": "Quality Retaining Soil",
-				"Stack": 10
-			},
-		],
-    "Repeatable": false,
-		"FriendshipConditions": [
-			{
-				"NpcName": "Caroline",
-				"FriendshipLevel": 3
-			}
-		],
+		"Attachments": [ { "Type": "Object", "Name": "Quality Retaining Soil", "Stack": 10 } ],
+    	"FriendshipConditions": [ {	"NpcName": "Caroline", "FriendshipLevel": 3	} ]
 	},
 	{
 		"Id": "MailCaroline04",
+		"GroupId": "CarolineLetters",
 		"Text": "MailCaroline04",
-		"Attachments": [
-			{
-				"Type": "BigCraftable",
-				"Name": "Garden Pot",
-				"Stack": 1
-			},
-		],
-    "Repeatable": false,
-		"FriendshipConditions": [
-			{
-				"NpcName": "Caroline",
-				"FriendshipLevel": 4
-			}
-		],
+		"Attachments": [ { "Type": "BigCraftable", "Name": "Garden Pot", "Stack": 1	} ],
+		"FriendshipConditions": [ { "NpcName": "Caroline", "FriendshipLevel": 4 } ]
 	},
 	{
 		"Id": "MailCaroline05",
+		"GroupId": "CarolineLetters",
 		"Text": "MailCaroline05",
-		"Attachments": [
-			{
-				"Type": "Object",
-				"Name": "Quality Sprinkler",
-				"Stack": 1
-			},
-		],
-    "Repeatable": false,
-		"FriendshipConditions": [
-			{
-				"NpcName": "Caroline",
-				"FriendshipLevel": 5
-			}
-		],
+		"Attachments": [ { "Type": "Object", "Name": "Quality Sprinkler", "Stack": 1 } ],
+		"FriendshipConditions": [ { "NpcName": "Caroline", "FriendshipLevel": 5 } ]
 	},
 	{
 		"Id": "MailCaroline06",
+		"GroupId": "CarolineLetters",
 		"Text": "MailCaroline06",
-		"Attachments": [
-			{
-				"Type": "Object",
-				"Name": "Spangle Seeds",
-				"Stack": 10
-			},
-		],
-    "Repeatable": false,
-		"FriendshipConditions": [
-			{
-				"NpcName": "Caroline",
-				"FriendshipLevel": 6
-			}
-		],
+		"Attachments": [ { "Type": "Object", "Name": "Spangle Seeds", "Stack": 10 }	],
+		"FriendshipConditions": [ { "NpcName": "Caroline", "FriendshipLevel": 6	} ]
 	},
 	{
 		"Id": "MailCaroline07",
+		"GroupId": "CarolineLetters",
 		"Text": "MailCaroline07",
-		"Attachments": [
-			{
-				"Type": "Object",
-				"Name": "Wheat Flour",
-				"Stack": 4
-			},
-		],
-    "Repeatable": false,
-		"FriendshipConditions": [
-			{
-				"NpcName": "Caroline",
-				"FriendshipLevel": 7
-			}
-		],
+		"Attachments": [ { "Type": "Object", "Name": "Wheat Flour",	"Stack": 4 } ],
+		"FriendshipConditions": [ { "NpcName": "Caroline", "FriendshipLevel": 7 } ]
 	},
 	{
 		"Id": "MailCaroline08",
+		"GroupId": "CarolineLetters",
 		"Text": "MailCaroline08",
-		"Attachments": [
-			{
-				"Type": "Object",
-				"Name": "Sugar",
-				"Stack": 8
-			},
-		],
-    "Repeatable": false,
-		"FriendshipConditions": [
-			{
-				"NpcName": "Caroline",
-				"FriendshipLevel": 8
-			}
-		],
+		"Attachments": [ { "Type": "Object", "Name": "Sugar", "Stack": 8 } ],
+		"FriendshipConditions": [ { "NpcName": "Caroline", "FriendshipLevel": 8 } ]
 	},
 	{
 		"Id": "MailCaroline09",
+		"GroupId": "CarolineLetters",
 		"Text": "MailCaroline09",
-		"Attachments": [
-			{
-				"Type": "Object",
-				"Name": "Oil",
-				"Stack": 2
-			},
-		],
-    "Repeatable": false,
-		"FriendshipConditions": [
-			{
-				"NpcName": "Caroline",
-				"FriendshipLevel": 9
-			}
-		],
+		"Attachments": [ { "Type": "Object", "Name": "Oil", "Stack": 2 } ],
+    	"FriendshipConditions": [ { "NpcName": "Caroline", "FriendshipLevel": 9 } ]
 	},
 	{
 		"Id": "MailCaroline10",
+		"GroupId": "CarolineLetters",
 		"Text": "MailCaroline10",
-		"Attachments": [
-			{
-				"Type": "Object",
-				"Name": "Iridium Sprinkler",
-				"Stack": 1
-			},
-		],
-    "Repeatable": false,
-		"FriendshipConditions": [
-			{
-				"NpcName": "Caroline",
-				"FriendshipLevel": 10
-			}
-		],
-	},
-	
+		"Attachments": [ { "Type": "Object", "Name": "Iridium Sprinkler", "Stack": 1 } ],
+		"FriendshipConditions": [ {	"NpcName": "Caroline", "FriendshipLevel": 10 } ]
+	}
 ]
- 
