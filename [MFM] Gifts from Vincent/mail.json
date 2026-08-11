@@ -1,8 +1,7 @@
 [
 	{	"Id":"ResetVincent",
 		"AutoOpen": true,
-		"Repeatable": false,
-	    "MailReceivedToRemove": [
+		  "MailReceivedToRemove": [
 			"VincentGift1",
 			"VincentGift2",
 			"VincentGift3",

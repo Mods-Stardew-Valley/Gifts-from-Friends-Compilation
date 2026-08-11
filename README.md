@@ -40,7 +40,7 @@ Their gifts will also come with this compilation.
 [list=1]
 -  v1.0.1 - Gifts from Abigail - Spooky Mail and Cave Loot from a Goth Girl
 -  v1.0.2 - Gifts from Alex - Meals and Motivation for Hard Work
--  v1.2.0 - Gifts from Caroline - Teas and Gardening
+-  v1.3.0 - Gifts from Caroline - Teas and Gardening
 -  v1.0.2 - Gifts from Clint - Forged Through Friendship
 -  v1.0.1 - Gifts from Demetrius - Field Research Deliveries
 -  v1.1.1 - Gifts from Dwarf - Treasures of the Deep
