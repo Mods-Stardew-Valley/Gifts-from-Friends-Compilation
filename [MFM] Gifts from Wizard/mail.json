@@ -8,15 +8,14 @@
 				"Type": "Object",
 				"Name": "Rain Totem",
 				"Stack": 3
-			},
+			}
 		],
-    "Repeatable": false,
 		"FriendshipConditions": [
 			{
 				"NpcName": "Wizard",
 				"FriendshipLevel": 1
 			}
-		],
+		]
 	},  
 	{
 		"Id": "MailWizard02",
@@ -27,15 +26,15 @@
 				"Type": "Object",
 				"Name": "Tea Leaves",
 				"Stack": 3
-			},
+			}
 		],
-    "Repeatable": false,
+       
 		"FriendshipConditions": [
 			{
 				"NpcName": "Wizard",
 				"FriendshipLevel": 2
 			}
-		],
+		]
 	}, 
 	{
 		"Id": "MailWizard03",
@@ -46,15 +45,14 @@
 				"Type": "Object",
 				"Index": 251,
 				"Stack": 5
-			},
+			}
 		],
-    "Repeatable": false,
 		"FriendshipConditions": [
 			{
 				"NpcName": "Wizard",
 				"FriendshipLevel": 3
 			}
-		],
+		]
 	}, 
 	{
 		"Id": "MailWizard04",
@@ -65,15 +63,14 @@
 				"Type": "Object",
 				"Name": "Rabbit's Foot",
 				"Stack": 1
-			},
+			}
 		],
-    "Repeatable": false,
 		"FriendshipConditions": [
 			{
 				"NpcName": "Wizard",
 				"FriendshipLevel": 4
 			}
-		],
+		]
 	}, 
 	{
 		"Id": "MailWizard05",
@@ -84,15 +81,14 @@
 				"Type": "Object",
 				"Name": "Purple Mushroom",
 				"Stack": 4
-			},
+			}
 		],
-    "Repeatable": false,
 		"FriendshipConditions": [
 			{
 				"NpcName": "Wizard",
 				"FriendshipLevel": 5
 			}
-		],
+		]
 	}, 
 	{
 		"Id": "MailWizard06",
@@ -104,15 +100,14 @@
 				"Type": "Object",
 				"Index": 688,
 				"Stack": 5
-			},
+			}
 		],
-    "Repeatable": false,
 		"FriendshipConditions": [
 			{
 				"NpcName": "Wizard",
 				"FriendshipLevel": 6
 			}
-		],
+		]
 	}, 
 	{
 		"Id": "MailWizard07",
@@ -124,15 +119,14 @@
 				"Type": "Object",
 				"Index": 689,
 				"Stack": 3
-			},
+			}
 		],
-    "Repeatable": false,
 		"FriendshipConditions": [
 			{
 				"NpcName": "Wizard",
 				"FriendshipLevel": 7
 			}
-		],
+		]
 	}, 
 	{
 		"Id": "MailWizard08",
@@ -144,15 +138,14 @@
 				"Type": "Object",
 				"Index": 690,
 				"Stack": 3
-			},
+			}
 		],
-    "Repeatable": false,
 		"FriendshipConditions": [
 			{
 				"NpcName": "Wizard",
 				"FriendshipLevel": 8
 			}
-		],
+		]
 	}, 
 	{
 		"Id": "MailWizard09",
@@ -163,15 +156,14 @@
 				"Type": "Object",
 				"Name": "Green Tea",
 				"Stack": 1
-			},
+			}
 		],
-    "Repeatable": false,
 		"FriendshipConditions": [
 			{
 				"NpcName": "Wizard",
 				"FriendshipLevel": 9
 			}
-		],
+		]
 	}, 
 	{
 		"Id": "MailWizard10",
@@ -182,16 +174,13 @@
 				"Type": "Object",
 				"Name": "Stardrop",
 				"Stack": 1
-			},
+			}
 		],
-    "Repeatable": false,
 		"FriendshipConditions": [
 			{
 				"NpcName": "Wizard",
 				"FriendshipLevel": 10
 			}
-		],
-	}, 
-	
+		]
+	}
 ]
- 

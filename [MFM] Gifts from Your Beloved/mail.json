@@ -3,8 +3,6 @@
 {
 	"Id": "ResetBeloved",
 	"AutoOpen": true,
-	"Repeatable": false,
-
 	"MailReceivedToRemove": [
 		"Married_Abigail11",
 		"Married_Abigail12",
@@ -67,9 +65,6 @@
 		"Married_Shane14"
 	]
 },
-
-
-
 	// == ABIGAIL ==
 	{
 		"Id": "Married_Abigail11",
@@ -98,7 +93,6 @@
 		"MailReceived": ["Married_Abigail13"],
 		"FriendshipConditions": [{ "NpcName": "Abigail", "FriendshipLevel": 14 }]
 	},
-
 	// == EMILY ==
 	{
 		"Id": "Married_Emily11",
@@ -127,7 +121,6 @@
 		"MailReceived": ["Married_Emily13"],
 		"FriendshipConditions": [{ "NpcName": "Emily", "FriendshipLevel": 14 }]
 	},
-
 	// == HALEY ==
 	{
 		"Id": "Married_Haley11",
@@ -156,7 +149,6 @@
 		"MailReceived": ["Married_Haley13"],
 		"FriendshipConditions": [{ "NpcName": "Haley", "FriendshipLevel": 14 }]
 	},
-
 	// == LEAH ==
 	{
 		"Id": "Married_Leah11",
@@ -185,7 +177,6 @@
 		"MailReceived": ["Married_Leah13"],
 		"FriendshipConditions": [{ "NpcName": "Leah", "FriendshipLevel": 14 }]
 	},
-
 	// == MARU ==
 	{
 		"Id": "Married_Maru11",
@@ -214,7 +205,6 @@
 		"MailReceived": ["Married_Maru13"],
 		"FriendshipConditions": [{ "NpcName": "Maru", "FriendshipLevel": 14 }]
 	},
-
 	// == PENNY ==
 	{
 		"Id": "Married_Penny11",
@@ -243,7 +233,6 @@
 		"MailReceived": ["Married_Penny13"],
 		"FriendshipConditions": [{ "NpcName": "Penny", "FriendshipLevel": 14 }]
 	},
-
 	// == ALEX ==
 	{
 		"Id": "Married_Alex11",
@@ -272,7 +261,6 @@
 		"MailReceived": ["Married_Alex13"],
 		"FriendshipConditions": [{ "NpcName": "Alex", "FriendshipLevel": 14 }]
 	},
-
 	// == ELLIOTT ==
 	{
 		"Id": "Married_Elliott11",
@@ -301,7 +289,6 @@
 		"MailReceived": ["Married_Elliott13"],
 		"FriendshipConditions": [{ "NpcName": "Elliott", "FriendshipLevel": 14 }]
 	},
-
 	// == HARVEY ==
 	{
 		"Id": "Married_Harvey11",
@@ -330,7 +317,6 @@
 		"MailReceived": ["Married_Harvey13"],
 		"FriendshipConditions": [{ "NpcName": "Harvey", "FriendshipLevel": 14 }]
 	},
-
 	// == SAM ==
 	{
 		"Id": "Married_Sam11",
@@ -359,7 +345,6 @@
 		"MailReceived": ["Married_Sam13"],
 		"FriendshipConditions": [{ "NpcName": "Sam", "FriendshipLevel": 14 }]
 	},
-
 	// == SEBASTIAN ==
 	{
 		"Id": "Married_Sebastian11",
@@ -388,7 +373,6 @@
 		"MailReceived": ["Married_Sebastian13"],
 		"FriendshipConditions": [{ "NpcName": "Sebastian", "FriendshipLevel": 14 }]
 	},
-
 	// == SHANE ==
 	{
 		"Id": "Married_Shane11",

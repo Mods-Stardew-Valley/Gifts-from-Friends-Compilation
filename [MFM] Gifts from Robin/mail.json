@@ -8,8 +8,7 @@
 				"Name": "Chest",
 				"Stack": 1
 			}
-		],
-    "Repeatable": false,
+		], 
 		"FriendshipConditions": [
 			{
 				"NpcName": "Robin",
@@ -26,8 +25,7 @@
 				"Name": "Wood Fence",
 				"Stack": 10
 			}
-		],
-    "Repeatable": false,
+		], 
 		"FriendshipConditions": [
 			{
 				"NpcName": "Robin",
@@ -45,7 +43,6 @@
 				"Stack": 1
 			}
 		],
-    "Repeatable": false,
 		"FriendshipConditions": [
 			{
 				"NpcName": "Robin",
@@ -63,7 +60,6 @@
 				"Stack": 20
 			}
 		],
-    "Repeatable": false,
 		"FriendshipConditions": [
 			{
 				"NpcName": "Robin",
@@ -81,7 +77,6 @@
 				"Stack": 10
 			}
 		],
-    "Repeatable": false,
 		"FriendshipConditions": [
 			{
 				"NpcName": "Robin",
@@ -99,7 +94,6 @@
 				"Stack": 50
 			}
 		],
-    "Repeatable": false,
 		"FriendshipConditions": [
 			{
 				"NpcName": "Robin",
@@ -118,7 +112,6 @@
 				"Stack": 1
 			}
 		],
-    "Repeatable": false,
 		"FriendshipConditions": [
 			{
 				"NpcName": "Robin",
@@ -136,7 +129,6 @@
 				"Stack": 1
 			}
 		],
-    "Repeatable": false,
 		"FriendshipConditions": [
 			{
 				"NpcName": "Robin",
@@ -155,7 +147,6 @@
 				"Stack": 1
 			}
 		],
-    "Repeatable": false,
 		"FriendshipConditions": [
 			{
 				"NpcName": "Robin",
@@ -174,7 +165,6 @@
 				"Stack": 1
 			}
 		],
-    "Repeatable": false,
 		"FriendshipConditions": [
 			{
 				"NpcName": "Robin",
@@ -183,4 +173,3 @@
 		]
 	}
 ]
- 
