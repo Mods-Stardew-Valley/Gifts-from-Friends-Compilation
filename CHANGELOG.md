@@ -395,6 +395,15 @@ corrihidas as chaves erradas em varios idiomas e adicionados novos idiomas, melh
 
 ### ⚡ Desempenho
 
+#### Melhorias de Desempenho
+
+└─ Remoção de avisos e melhorias pequenas no desempenho da compilação
+
+Revisão para erros de chave de tradução concluida
+
+Adicionar mais um mod e lancar a versão 1.8.0 incluindo as correções ja feitas
+
+
 #### Updates
 
 └─ Muitas atualizações de performance em varios arquivos
@@ -405,6 +414,9 @@ corrihidas as chaves erradas em varios idiomas e adicionados novos idiomas, melh
 
 
 ### 📚 Documentação
+
+#### atualiza CHANGELOG.md [skip ci]
+
 
 #### atualiza CHANGELOG.md [skip ci]
 
