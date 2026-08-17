@@ -1,0 +1,16 @@
+{
+   "Name": "Gifts from Kent",
+   "Author": "LoganDoidao",
+   "Version": "1.0.0",
+   "MinimumApiVersion": "4.1.0", 
+   "Description": "Receive letters and gifts from your friend Kent.",
+   "UniqueID": "LoganDoidao.GiftsFromKent",
+        "UpdateKeys": [ 
+            "GitHub:Mods-Stardew-Valley/MFM-Gifts-from-Kent",
+            "Nexus:50858" 
+            ], 
+   "ContentPackFor": {
+       "UniqueID": "DIGUS.MailFrameworkMod", 
+       "MinimumVersion": "1.20.0"
+	}
+}
