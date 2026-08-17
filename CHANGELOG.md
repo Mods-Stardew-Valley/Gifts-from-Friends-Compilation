@@ -384,6 +384,14 @@ Todas as modificações e alterações foram salvas no repositório principal es
 #### Merge branch 'main' of https://github.com/Mods-Stardew-Valley/Gifts-from-Friends-Compilation
 
 
+#### Update Kent release metadata
+
+This commit bumps the Kent mod manifest to version 1.0.1 and adds the Kent entry to the README changelog so the release is documented alongside the other gifts compilation entries.
+
+
+#### Merge branch 'main' of https://github.com/Mods-Stardew-Valley/Gifts-from-Friends-Compilation
+
+
 #### Merge branch 'main' of https://github.com/Mods-Stardew-Valley/Gifts-from-Friends-Compilation
 
 
@@ -433,6 +441,9 @@ Adicionar mais um mod e lancar a versão 1.8.0 incluindo as correções ja feita
 
 
 ### 📚 Documentação
+
+#### atualiza CHANGELOG.md [skip ci]
+
 
 #### atualiza CHANGELOG.md [skip ci]
 
