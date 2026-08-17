@@ -88,7 +88,7 @@
     "Id": "MailKent09",
     "GroupId": "KentLetters",
     "Text": "MailKent09",
-    "Attachments": [ { "Type": "BigCraftable", "Name": "Tent Kit", "Stack": 1 },
+    "Attachments": [ { "Type": "Object", "Name": "Tent Kit", "Stack": 1 },
                      { "Type": "Object", "Name": "Cookout Kit", "Stack": 1 } ],
     "FriendshipConditions": [ { "NpcName": "Kent", "FriendshipLevel": 9 } ]
  },
