@@ -416,7 +416,18 @@ Adicionar mais um mod e lancar a versão 1.8.0 incluindo as correções ja feita
 
 
 
+### ✨ Novidades
+
+#### Added Kent mod
+
+└─ Adicionado o mod do Kent a compilação
+
+
+
 ### 📚 Documentação
+
+#### atualiza CHANGELOG.md [skip ci]
+
 
 #### atualiza CHANGELOG.md [skip ci]
 
@@ -440,6 +451,9 @@ Adicionar mais um mod e lancar a versão 1.8.0 incluindo as correções ja feita
 
 
 ### 🔧 Manutenção
+
+#### sincroniza README.md <-> README.bbcode [skip ci]
+
 
 #### sincroniza README.md <-> README.bbcode [skip ci]
 
