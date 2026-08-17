@@ -424,7 +424,18 @@ Adicionar mais um mod e lancar a versão 1.8.0 incluindo as correções ja feita
 
 
 
+### 🐛 Correções
+
+#### gift
+
+└─ Corrigido o nome correto do item para o presente da carta 9
+
+
+
 ### 📚 Documentação
+
+#### atualiza CHANGELOG.md [skip ci]
+
 
 #### atualiza CHANGELOG.md [skip ci]
 
