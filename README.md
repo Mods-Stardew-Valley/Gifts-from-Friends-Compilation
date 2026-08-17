@@ -54,6 +54,7 @@ Their gifts will also come with this compilation.
 -  v1.0.0 - Gifts from Harvey - A Doctors Care
 -  v1.2.0 - Gifts from Jas - Cute Letters and Nature Gifts
 -  v1.0.1 - Gifts from Jodi - Homemade Family Meals
+-  v1.0.1 - Gifts from Kent - Practical Gifts and Usefull Surprises
 -  v1.0.1 - Gifts from Krobus - A Gentle Shadow of the Sewers
 -  v1.2.1 - Gifts from Leah - Nature Gifts and Inspired Art
 -  v1.4.0 - Gifts from Lewis - Mayors Luxuries
