@@ -376,7 +376,7 @@ Todas as modificações e alterações foram salvas no repositório principal es
 
 
 
-## Unreleased
+## v1.8.0 - 2026-08-18
 
 
 ### Outras alterações
@@ -432,6 +432,14 @@ Adicionar mais um mod e lancar a versão 1.8.0 incluindo as correções ja feita
 
 
 
+### 🏗 Versão
+
+#### 1.8.0
+
+└─ New version released
+
+
+
 ### 🐛 Correções
 
 #### gift
@@ -441,6 +449,9 @@ Adicionar mais um mod e lancar a versão 1.8.0 incluindo as correções ja feita
 
 
 ### 📚 Documentação
+
+#### atualiza CHANGELOG.md [skip ci]
+
 
 #### atualiza CHANGELOG.md [skip ci]
 
@@ -473,6 +484,9 @@ Adicionar mais um mod e lancar a versão 1.8.0 incluindo as correções ja feita
 
 
 ### 🔧 Manutenção
+
+#### sincroniza README.md <-> README.bbcode [skip ci]
+
 
 #### sincroniza README.md <-> README.bbcode [skip ci]
 
