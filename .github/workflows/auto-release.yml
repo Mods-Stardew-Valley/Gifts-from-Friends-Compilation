@@ -21,7 +21,7 @@ jobs:
       - name: Extrair versão do CHANGELOG.md
         id: version
         run: |
-          VERSION=$(grep -m 1 '^# v' CHANGELOG.md | sed -E 's/^# v//')
+          VERSION=$(grep -m 1 'Version:' CHANGELOG.md | sed -E 's/.*Version:\s*//' | tr -d '[:space:]')
           echo "Versão detectada: $VERSION"
           echo "version=$VERSION" >> "$GITHUB_OUTPUT"
 

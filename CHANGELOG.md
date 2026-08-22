@@ -1,7 +1,7 @@
 # Changelog
 Todas as mudanças importantes deste projeto serão documentadas neste arquivo.
 
-## Version 
+## Latest Version
 
     Version: 1.8.1
 

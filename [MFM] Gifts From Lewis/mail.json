@@ -96,7 +96,7 @@
 	{
 	"Id": "Lewis_Repeatable",
   "GroupId": "LewisLetters",
-  "Text": "lewis_10",
+  "Text": "lewis_repeatable",
 	"Repeteable": true,
 	"RandomChance": 0.1,
 	"FriendshipConditions": [ { "NpcName": "Lewis", "FriendshipLevel": 1 } ],
