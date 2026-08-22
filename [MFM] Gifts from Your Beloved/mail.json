@@ -1,404 +1,309 @@
 [
-
 {
-	"Id": "ResetBeloved",
+	"Id": "ResetBelovedAgain",
 	"AutoOpen": true,
 	"MailReceivedToRemove": [
-		"Married_Abigail11",
-		"Married_Abigail12",
-		"Married_Abigail13",
-		"Married_Abigail14",
-
-		"Married_Alex11",
-		"Married_Alex12",
-		"Married_Alex13",
-		"Married_Alex14",
-
-		"Married_Elliott11",
-		"Married_Elliott12",
-		"Married_Elliott13",
-		"Married_Elliott14",
-
-		"Married_Emily11",
-		"Married_Emily12",
-		"Married_Emily13",
-		"Married_Emily14",
-
-		"Married_Haley11",
-		"Married_Haley12",
-		"Married_Haley13",
-		"Married_Haley14",
-
-		"Married_Harvey11",
-		"Married_Harvey12",
-		"Married_Harvey13",
-		"Married_Harvey14",
-
-		"Married_Leah11",
-		"Married_Leah12",
-		"Married_Leah13",
-		"Married_Leah14",
-
-		"Married_Maru11",
-		"Married_Maru12",
-		"Married_Maru13",
-		"Married_Maru14",
-
-		"Married_Penny11",
-		"Married_Penny12",
-		"Married_Penny13",
-		"Married_Penny14",
-
-		"Married_Sam11",
-		"Married_Sam12",
-		"Married_Sam13",
-		"Married_Sam14",
-
-		"Married_Sebastian11",
-		"Married_Sebastian12",
-		"Married_Sebastian13",
-		"Married_Sebastian14",
-
-		"Married_Shane11",
-		"Married_Shane12",
-		"Married_Shane13",
-		"Married_Shane14"
+		"Married_Abigail11", "Married_Abigail12", "Married_Abigail13", "Married_Abigail14",
+		"Married_Alex11", "Married_Alex12", "Married_Alex13", "Married_Alex14",
+		"Married_Elliott11", "Married_Elliott12", "Married_Elliott13", "Married_Elliott14",
+		"Married_Emily11", "Married_Emily12", "Married_Emily13", "Married_Emily14",
+		"Married_Haley11", "Married_Haley12", "Married_Haley13", "Married_Haley14",
+		"Married_Harvey11", "Married_Harvey12", "Married_Harvey13", "Married_Harvey14",
+		"Married_Leah11", "Married_Leah12", "Married_Leah13", "Married_Leah14",
+		"Married_Maru11", "Married_Maru12", "Married_Maru13", "Married_Maru14",
+		"Married_Penny11", "Married_Penny12", "Married_Penny13", "Married_Penny14",
+		"Married_Sam11", "Married_Sam12", "Married_Sam13", "Married_Sam14",
+		"Married_Sebastian11", "Married_Sebastian12", "Married_Sebastian13", "Married_Sebastian14",
+		"Married_Shane11", "Married_Shane12", "Married_Shane13", "Married_Shane14",
+		"ResetBeloved"
 	]
 },
-	// == ABIGAIL ==
 	{
-		"Id": "Married_Abigail11",
+		"Id": "Married_Abigail11", "GroupId": "Married_Abigail",
 		"Text": "Married_Abigail11",
 		"Attachments": [{ "Type": "Object", "Name": "Amethyst", "Stack": 1 }],
 		"FriendshipConditions": [{ "NpcName": "Abigail", "FriendshipLevel": 11 }]
 	},
 	{
-		"Id": "Married_Abigail12",
+		"Id": "Married_Abigail12", "GroupId": "Married_Abigail",
 		"Text": "Married_Abigail12",
 		"Attachments": [{ "Type": "Object", "Name": "Pumpkin", "Stack": 1 }],
-		"MailReceived": ["Married_Abigail11"],
 		"FriendshipConditions": [{ "NpcName": "Abigail", "FriendshipLevel": 12 }]
 	},
 	{
-		"Id": "Married_Abigail13",
+		"Id": "Married_Abigail13", "GroupId": "Married_Abigail",
 		"Text": "Married_Abigail13",
 		"Attachments": [{ "Type": "Object", "Name": "Chocolate Cake", "Stack": 1 }],
-		"MailReceived": ["Married_Abigail12"],
 		"FriendshipConditions": [{ "NpcName": "Abigail", "FriendshipLevel": 13 }]
 	},
 	{
-		"Id": "Married_Abigail14",
+		"Id": "Married_Abigail14", "GroupId": "Married_Abigail",
 		"Text": "Married_Abigail14",
 		"Attachments": [{ "Type": "Object", "Name": "Spicy Eel", "Stack": 1 }],
-		"MailReceived": ["Married_Abigail13"],
 		"FriendshipConditions": [{ "NpcName": "Abigail", "FriendshipLevel": 14 }]
 	},
-	// == EMILY ==
 	{
-		"Id": "Married_Emily11",
+		"Id": "Married_Emily11", "GroupId": "Married_Emily",
 		"Text": "Married_Emily11",
 		"Attachments": [{ "Type": "Object", "Name": "Topaz", "Stack": 1 }],
 		"FriendshipConditions": [{ "NpcName": "Emily", "FriendshipLevel": 11 }]
 	},
 	{
-		"Id": "Married_Emily12",
+		"Id": "Married_Emily12", "GroupId": "Married_Emily",
 		"Text": "Married_Emily12",
 		"Attachments": [{ "Type": "Object", "Name": "Wool", "Stack": 1 }],
-		"MailReceived": ["Married_Emily11"],
 		"FriendshipConditions": [{ "NpcName": "Emily", "FriendshipLevel": 12 }]
 	},
 	{
-		"Id": "Married_Emily13",
+		"Id": "Married_Emily13", "GroupId": "Married_Emily",
 		"Text": "Married_Emily13",
 		"Attachments": [{ "Type": "Object", "Name": "Cloth", "Stack": 1 }],
-		"MailReceived": ["Married_Emily12"],
 		"FriendshipConditions": [{ "NpcName": "Emily", "FriendshipLevel": 13 }]
 	},
 	{
-		"Id": "Married_Emily14",
+		"Id": "Married_Emily14", "GroupId": "Married_Emily",
 		"Text": "Married_Emily14",
 		"Attachments": [{ "Type": "Object", "Name": "Aquamarine", "Stack": 1 }],
-		"MailReceived": ["Married_Emily13"],
 		"FriendshipConditions": [{ "NpcName": "Emily", "FriendshipLevel": 14 }]
 	},
-	// == HALEY ==
 	{
-		"Id": "Married_Haley11",
+		"Id": "Married_Haley11", "GroupId": "Married_Haley",
 		"Text": "Married_Haley11",
 		"Attachments": [{ "Type": "Object", "Name": "Sunflower", "Stack": 1 }],
 		"FriendshipConditions": [{ "NpcName": "Haley", "FriendshipLevel": 11 }]
 	},
 	{
-		"Id": "Married_Haley12",
+		"Id": "Married_Haley12", "GroupId": "Married_Haley",
 		"Text": "Married_Haley12",
 		"Attachments": [{ "Type": "Object", "Name": "Coconut", "Stack": 1 }],
-		"MailReceived": ["Married_Haley11"],
 		"FriendshipConditions": [{ "NpcName": "Haley", "FriendshipLevel": 12 }]
 	},
 	{
-		"Id": "Married_Haley13",
+		"Id": "Married_Haley13", "GroupId": "Married_Haley",
 		"Text": "Married_Haley13",
 		"Attachments": [{ "Type": "Object", "Name": "Fruit Salad", "Stack": 1 }],
-		"MailReceived": ["Married_Haley12"],
 		"FriendshipConditions": [{ "NpcName": "Haley", "FriendshipLevel": 13 }]
 	},
 	{
-		"Id": "Married_Haley14",
+		"Id": "Married_Haley14", "GroupId": "Married_Haley",
 		"Text": "Married_Haley14",
 		"Attachments": [{ "Type": "Object", "Name": "Pink Cake", "Stack": 1 }],
-		"MailReceived": ["Married_Haley13"],
 		"FriendshipConditions": [{ "NpcName": "Haley", "FriendshipLevel": 14 }]
 	},
-	// == LEAH ==
 	{
-		"Id": "Married_Leah11",
+		"Id": "Married_Leah11", "GroupId": "Married_Leah",
 		"Text": "Married_Leah11",
 		"Attachments": [{ "Type": "Object", "Name": "Salad", "Stack": 1 }],
 		"FriendshipConditions": [{ "NpcName": "Leah", "FriendshipLevel": 11 }]
 	},
 	{
-		"Id": "Married_Leah12",
+		"Id": "Married_Leah12", "GroupId": "Married_Leah",
 		"Text": "Married_Leah12",
 		"Attachments": [{ "Type": "Object", "Name": "Driftwood", "Stack": 1 }],
-		"MailReceived": ["Married_Leah11"],
 		"FriendshipConditions": [{ "NpcName": "Leah", "FriendshipLevel": 12 }]
 	},
 	{
-		"Id": "Married_Leah13",
+		"Id": "Married_Leah13", "GroupId": "Married_Leah",
 		"Text": "Married_Leah13",
 		"Attachments": [{ "Type": "Object", "Name": "Goat Cheese", "Stack": 1 }],
-		"MailReceived": ["Married_Leah12"],
 		"FriendshipConditions": [{ "NpcName": "Leah", "FriendshipLevel": 13 }]
 	},
 	{
-		"Id": "Married_Leah14",
+		"Id": "Married_Leah14", "GroupId": "Married_Leah",
 		"Text": "Married_Leah14",
 		"Attachments": [{ "Type": "Object", "Name": "Wine", "Stack": 1 }],
-		"MailReceived": ["Married_Leah13"],
 		"FriendshipConditions": [{ "NpcName": "Leah", "FriendshipLevel": 14 }]
 	},
-	// == MARU ==
 	{
-		"Id": "Married_Maru11",
+		"Id": "Married_Maru11", "GroupId": "Married_Maru",
 		"Text": "Married_Maru11",
 		"Attachments": [{ "Type": "Object", "Name": "Battery Pack", "Stack": 1 }],
 		"FriendshipConditions": [{ "NpcName": "Maru", "FriendshipLevel": 11 }]
 	},
 	{
-		"Id": "Married_Maru12",
+		"Id": "Married_Maru12", "GroupId": "Married_Maru",
 		"Text": "Married_Maru12",
 		"Attachments": [{ "Type": "Object", "Name": "Refined Quartz", "Stack": 1 }],
-		"MailReceived": ["Married_Maru11"],
 		"FriendshipConditions": [{ "NpcName": "Maru", "FriendshipLevel": 12 }]
 	},
 	{
-		"Id": "Married_Maru13",
+		"Id": "Married_Maru13", "GroupId": "Married_Maru",
 		"Text": "Married_Maru13",
 		"Attachments": [{ "Type": "Object", "Name": "Life Elixir", "Stack": 1 }],
-		"MailReceived": ["Married_Maru12"],
 		"FriendshipConditions": [{ "NpcName": "Maru", "FriendshipLevel": 13 }]
 	},
 	{
-		"Id": "Married_Maru14",
+		"Id": "Married_Maru14", "GroupId": "Married_Maru",
 		"Text": "Married_Maru14",
 		"Attachments": [{ "Type": "Object", "Name": "Dish O' The Sea", "Stack": 1 }],
-		"MailReceived": ["Married_Maru13"],
 		"FriendshipConditions": [{ "NpcName": "Maru", "FriendshipLevel": 14 }]
 	},
-	// == PENNY ==
 	{
-		"Id": "Married_Penny11",
+		"Id": "Married_Penny11", "GroupId": "Married_Penny",
 		"Text": "Married_Penny11",
 		"Attachments": [{ "Type": "Object", "Name": "Maple Syrup", "Stack": 1 }],
 		"FriendshipConditions": [{ "NpcName": "Penny", "FriendshipLevel": 11 }]
 	},
 	{
-		"Id": "Married_Penny12",
+		"Id": "Married_Penny12", "GroupId": "Married_Penny",
 		"Text": "Married_Penny12",
 		"Attachments": [{ "Type": "Object", "Name": "Poppyseed Muffin", "Stack": 1 }],
-		"MailReceived": ["Married_Penny11"],
 		"FriendshipConditions": [{ "NpcName": "Penny", "FriendshipLevel": 12 }]
 	},
 	{
-		"Id": "Married_Penny13",
+		"Id": "Married_Penny13", "GroupId": "Married_Penny",
 		"Text": "Married_Penny13",
 		"Attachments": [{ "Type": "Object", "Name": "Tom Kha Soup", "Stack": 1 }],
-		"MailReceived": ["Married_Penny12"],
 		"FriendshipConditions": [{ "NpcName": "Penny", "FriendshipLevel": 13 }]
 	},
 	{
-		"Id": "Married_Penny14",
+		"Id": "Married_Penny14", "GroupId": "Married_Penny",
 		"Text": "Married_Penny14",
 		"Attachments": [{ "Type": "Object", "Name": "Red Plate", "Stack": 1 }],
-		"MailReceived": ["Married_Penny13"],
 		"FriendshipConditions": [{ "NpcName": "Penny", "FriendshipLevel": 14 }]
 	},
-	// == ALEX ==
 	{
-		"Id": "Married_Alex11",
+		"Id": "Married_Alex11", "GroupId": "Married_Alex",
 		"Text": "Married_Alex11",
 		"Attachments": [{ "Type": "Object", "Name": "Egg", "Stack": 1 }],
 		"FriendshipConditions": [{ "NpcName": "Alex", "FriendshipLevel": 11 }]
 	},
 	{
-		"Id": "Married_Alex12",
+		"Id": "Married_Alex12", "GroupId": "Married_Alex",
 		"Text": "Married_Alex12",
 		"Attachments": [{ "Type": "Object", "Name": "Complete Breakfast", "Stack": 1 }],
-		"MailReceived": ["Married_Alex11"],
 		"FriendshipConditions": [{ "NpcName": "Alex", "FriendshipLevel": 12 }]
 	},
 	{
-		"Id": "Married_Alex13",
+		"Id": "Married_Alex13", "GroupId": "Married_Alex",
 		"Text": "Married_Alex13",
 		"Attachments": [{ "Type": "Object", "Name": "Salmon Dinner", "Stack": 1 }],
-		"MailReceived": ["Married_Alex12"],
 		"FriendshipConditions": [{ "NpcName": "Alex", "FriendshipLevel": 13 }]
 	},
 	{
-		"Id": "Married_Alex14",
+		"Id": "Married_Alex14", "GroupId": "Married_Alex",
 		"Text": "Married_Alex14",
 		"Attachments": [{ "Type": "Object", "Name": "Triple Shot Espresso", "Stack": 1 }],
-		"MailReceived": ["Married_Alex13"],
 		"FriendshipConditions": [{ "NpcName": "Alex", "FriendshipLevel": 14 }]
 	},
-	// == ELLIOTT ==
 	{
-		"Id": "Married_Elliott11",
+		"Id": "Married_Elliott11", "GroupId": "Married_Elliott",
 		"Text": "Married_Elliott11",
 		"Attachments": [{ "Type": "Object", "Name": "Pomegranate", "Stack": 1 }],
 		"FriendshipConditions": [{ "NpcName": "Elliott", "FriendshipLevel": 11 }]
 	},
 	{
-		"Id": "Married_Elliott12",
+		"Id": "Married_Elliott12", "GroupId": "Married_Elliott",
 		"Text": "Married_Elliott12",
 		"Attachments": [{ "Type": "Object", "Name": "Wine", "Stack": 1 }],
-		"MailReceived": ["Married_Elliott11"],
 		"FriendshipConditions": [{ "NpcName": "Elliott", "FriendshipLevel": 12 }]
 	},
 	{
-		"Id": "Married_Elliott13",
+		"Id": "Married_Elliott13", "GroupId": "Married_Elliott",
 		"Text": "Married_Elliott13",
 		"Attachments": [{ "Type": "Object", "Name": "Crab Cakes", "Stack": 1 }],
-		"MailReceived": ["Married_Elliott12"],
 		"FriendshipConditions": [{ "NpcName": "Elliott", "FriendshipLevel": 13 }]
 	},
 	{
-		"Id": "Married_Elliott14",
+		"Id": "Married_Elliott14", "GroupId": "Married_Elliott",
 		"Text": "Married_Elliott14",
 		"Attachments": [{ "Type": "Object", "Name": "Lobster Bisque", "Stack": 1 }],
-		"MailReceived": ["Married_Elliott13"],
 		"FriendshipConditions": [{ "NpcName": "Elliott", "FriendshipLevel": 14 }]
 	},
-	// == HARVEY ==
 	{
-		"Id": "Married_Harvey11",
+		"Id": "Married_Harvey11", "GroupId": "Married_Harvey",
 		"Text": "Married_Harvey11",
 		"Attachments": [{ "Type": "Object", "Name": "Coffee", "Stack": 1 }],
 		"FriendshipConditions": [{ "NpcName": "Harvey", "FriendshipLevel": 11 }]
 	},
 	{
-		"Id": "Married_Harvey12",
+		"Id": "Married_Harvey12", "GroupId": "Married_Harvey",
 		"Text": "Married_Harvey12",
 		"Attachments": [{ "Type": "Object", "Name": "Pickles", "Stack": 1 }],
-		"MailReceived": ["Married_Harvey11"],
 		"FriendshipConditions": [{ "NpcName": "Harvey", "FriendshipLevel": 12 }]
 	},
 	{
-		"Id": "Married_Harvey13",
+		"Id": "Married_Harvey13", "GroupId": "Married_Harvey",
 		"Text": "Married_Harvey13",
 		"Attachments": [{ "Type": "Object", "Name": "Life Elixir", "Stack": 1 }],
-		"MailReceived": ["Married_Harvey12"],
 		"FriendshipConditions": [{ "NpcName": "Harvey", "FriendshipLevel": 13 }]
 	},
 	{
-		"Id": "Married_Harvey14",
+		"Id": "Married_Harvey14", "GroupId": "Married_Harvey",
 		"Text": "Married_Harvey14",
 		"Attachments": [{ "Type": "Object", "Name": "Wine", "Stack": 1 }],
-		"MailReceived": ["Married_Harvey13"],
 		"FriendshipConditions": [{ "NpcName": "Harvey", "FriendshipLevel": 14 }]
 	},
-	// == SAM ==
 	{
-		"Id": "Married_Sam11",
+		"Id": "Married_Sam11", "GroupId": "Married_Sam",
 		"Text": "Married_Sam11",
 		"Attachments": [{ "Type": "Object", "Name": "Pancakes", "Stack": 1 }],
 		"FriendshipConditions": [{ "NpcName": "Sam", "FriendshipLevel": 11 }]
 	},
 	{
-		"Id": "Married_Sam12",
+		"Id": "Married_Sam12", "GroupId": "Married_Sam",
 		"Text": "Married_Sam12",
 		"Attachments": [{ "Type": "Object", "Name": "Maple Bar", "Stack": 1 }],
-		"MailReceived": ["Married_Sam11"],
 		"FriendshipConditions": [{ "NpcName": "Sam", "FriendshipLevel": 12 }]
 	},
 	{
-		"Id": "Married_Sam13",
+		"Id": "Married_Sam13", "GroupId": "Married_Sam",
 		"Text": "Married_Sam13",
 		"Attachments": [{ "Type": "Object", "Name": "Hashbrowns", "Stack": 1 }],
-		"MailReceived": ["Married_Sam12"],
 		"FriendshipConditions": [{ "NpcName": "Sam", "FriendshipLevel": 13 }]
 	},
 	{
-		"Id": "Married_Sam14",
+		"Id": "Married_Sam14", "GroupId": "Married_Sam",
 		"Text": "Married_Sam14",
 		"Attachments": [{ "Type": "Object", "Name": "Pizza", "Stack": 1 }],
-		"MailReceived": ["Married_Sam13"],
 		"FriendshipConditions": [{ "NpcName": "Sam", "FriendshipLevel": 14 }]
 	},
-	// == SEBASTIAN ==
 	{
-		"Id": "Married_Sebastian11",
+		"Id": "Married_Sebastian11", "GroupId": "Married_Sebastian",
 		"Text": "Married_Sebastian11",
 		"Attachments": [{ "Type": "Object", "Name": "Frozen Tear", "Stack": 1 }],
 		"FriendshipConditions": [{ "NpcName": "Sebastian", "FriendshipLevel": 11 }]
 	},
 	{
-		"Id": "Married_Sebastian12",
+		"Id": "Married_Sebastian12", "GroupId": "Married_Sebastian",
 		"Text": "Married_Sebastian12",
 		"Attachments": [{ "Type": "Object", "Name": "Coffee", "Stack": 1 }],
-		"MailReceived": ["Married_Sebastian11"],
 		"FriendshipConditions": [{ "NpcName": "Sebastian", "FriendshipLevel": 12 }]
 	},
 	{
-		"Id": "Married_Sebastian13",
+		"Id": "Married_Sebastian13", "GroupId": "Married_Sebastian",
 		"Text": "Married_Sebastian13",
 		"Attachments": [{ "Type": "Object", "Name": "Sashimi", "Stack": 1 }],
-		"MailReceived": ["Married_Sebastian12"],
 		"FriendshipConditions": [{ "NpcName": "Sebastian", "FriendshipLevel": 13 }]
 	},
 	{
-		"Id": "Married_Sebastian14",
+		"Id": "Married_Sebastian14", "GroupId": "Married_Sebastian", 
 		"Text": "Married_Sebastian14",
 		"Attachments": [{ "Type": "Object", "Name": "Squid Ink Ravioli", "Stack": 1 }],
-		"MailReceived": ["Married_Sebastian13"],
 		"FriendshipConditions": [{ "NpcName": "Sebastian", "FriendshipLevel": 14 }]
 	},
-	// == SHANE ==
 	{
-		"Id": "Married_Shane11",
+		"Id": "Married_Shane11", "GroupId": "Married_Shane",
 		"Text": "Married_Shane11",
 		"Attachments": [{ "Type": "Object", "Name": "Hot Pepper", "Stack": 1 }],
 		"FriendshipConditions": [{ "NpcName": "Shane", "FriendshipLevel": 11 }]
 	},
 	{
-		"Id": "Married_Shane12",
+		"Id": "Married_Shane12", "GroupId": "Married_Shane",
 		"Text": "Married_Shane12",
 		"Attachments": [{ "Type": "Object", "Name": "Beer", "Stack": 1 }],
-		"MailReceived": ["Married_Shane11"],
 		"FriendshipConditions": [{ "NpcName": "Shane", "FriendshipLevel": 12 }]
 	},
 	{
-		"Id": "Married_Shane13",
+		"Id": "Married_Shane13", "GroupId": "Married_Shane",
 		"Text": "Married_Shane13",
 		"Attachments": [{ "Type": "Object", "Name": "Pepper Poppers", "Stack": 1 }],
-		"MailReceived": ["Married_Shane12"],
 		"FriendshipConditions": [{ "NpcName": "Shane", "FriendshipLevel": 13 }]
 	},
 	{
-		"Id": "Married_Shane14",
+		"Id": "Married_Shane14", "GroupId": "Married_Shane",
 		"Text": "Married_Shane14",
 		"Attachments": [{ "Type": "Object", "Name": "Farmer's Lunch", "Stack": 1 }],
-		"MailReceived": ["Married_Shane13"],
 		"FriendshipConditions": [{ "NpcName": "Shane", "FriendshipLevel": 14 }]
 	}
 ]
