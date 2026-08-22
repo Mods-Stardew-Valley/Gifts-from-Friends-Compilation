@@ -50,6 +50,13 @@ jobs:
           git tag "v${{ steps.version.outputs.version }}"
           git push origin "v${{ steps.version.outputs.version }}"
 
+      - name: Formatar nome do repositório
+        id: reponame
+        if: steps.check.outputs.skip == 'false' && steps.tagcheck.outputs.exists == 'false'
+        run: |
+          NAME=$(echo "${{ github.event.repository.name }}" | tr '-' ' ')
+          echo "name=$NAME" >> "$GITHUB_OUTPUT"
+
       - name: Empacotar mod em zip
         if: steps.check.outputs.skip == 'false' && steps.tagcheck.outputs.exists == 'false'
         run: |
@@ -71,6 +78,6 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           tag_name: "v${{ steps.version.outputs.version }}"
-          name: "${{ github.event.repository.name }} v${{ steps.version.outputs.version }}"
+          name: "${{ steps.reponame.outputs.name }} v${{ steps.version.outputs.version }}"
           body_path: README.md
           files: "${{ github.event.repository.name }}-v${{ steps.version.outputs.version }}.zip"
