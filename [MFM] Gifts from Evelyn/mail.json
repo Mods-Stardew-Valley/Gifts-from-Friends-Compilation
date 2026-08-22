@@ -135,7 +135,7 @@
     "GroupId": "EvelynGifts",
     "Text": "EvelynRepeteable",
 	"Repeatable": true,
-	"RandomChance": 0.075,
+	"RandomChance": 0.1,
 	"FriendshipConditions": [ { "NpcName": "Evelyn", "FriendshipLevel": 1 } ],
 	"RandomlyChooseAttachment": 1,
 	"Attachments": [
