@@ -1,95 +1,58 @@
 [
 	{
-	"Id": "GrandFatherLetter01",
-    "GroupId": "GrandFatherLetters",
+	"Id": "GrandFatherLetter01", "GroupId": "GrandFatherLetters",
 	"Text": "GrandFatherLetter01",
     "Attachments": [ 
 		{ "Type": "Object",	"Name": "Mixed Seeds", "Stack": 10 },
-		{ "Type": "BigCraftable", "Name": "Chest", "Stack": 1 }]
-	},
-
+		{ "Type": "BigCraftable", "Name": "Chest", "Stack": 1 }] },
 	{
-	"Id": "GrandFatherLetterFarming01",
-    "GroupId": "GrandFatherLetters",
+	"Id": "GrandFatherLetterFarming01", "GroupId": "GrandFatherLetters",
 	"Text": "GrandFatherLetterFarming01",
     "Attachments": [ { "Type": "Object", "Name": "Basic Fertilizer", "Stack": 10 } ],
-	"SkillConditions": [ { "SkillName": "Farming", "SkillLevel": 1 } ]
-	},
-
+	"SkillConditions": [ { "SkillName": "Farming", "SkillLevel": 1 } ] },
 	{
-	"Id": "GrandFatherLetterFarming10",
-    "GroupId": "GrandFatherLetters",
+	"Id": "GrandFatherLetterFarming10", "GroupId": "GrandFatherLetters",
 	"Text": "GrandFatherLetterFarming10",
-    "Attachments": [
-        { "Type": "Object",	"Name": "Deluxe Fertilizer", "Stack": 20 } ],
-		"SkillConditions": [ { "SkillName": "Farming", "SkillLevel": 10 } ]
-	},
-
+    "Attachments": [ { "Type": "Object", "Name": "Deluxe Fertilizer", "Stack": 20 } ],
+	"SkillConditions": [ { "SkillName": "Farming", "SkillLevel": 10 } ]	},
 	{
-	"Id": "GrandFatherLetterMining01",
-    "GroupId": "GrandFatherLetters",
+	"Id": "GrandFatherLetterMining01", "GroupId": "GrandFatherLetters",
 	"Text": "GrandFatherLetterMining01",
     "Attachments": [ { "Type": "Object", "Name": "Coal", "Stack": 10 } ],
-	"SkillConditions": [ { "SkillName": "Mining", "SkillLevel": 1 } ]
-	},
-
+	"SkillConditions": [ { "SkillName": "Mining", "SkillLevel": 1 } ] },
 	{
-	"Id": "GrandFatherLetterMining10",
-    "GroupId": "GrandFatherLetters",
+	"Id": "GrandFatherLetterMining10", "GroupId": "GrandFatherLetters",
 	"Text": "GrandFatherLetterMining10",
-    "Attachments": [
-        { "Type": "Object",	"Name": "Fairy Dust", "Stack": 1 }	],
-		"SkillConditions": [ { "SkillName": "Mining", "SkillLevel": 10 } ]
-	},
-
-{
-	"Id": "GrandFatherLetterForaging01",
-    "GroupId": "GrandFatherLetters",
+    "Attachments": [ { "Type": "Object", "Name": "Fairy Dust", "Stack": 1 }	],
+	"SkillConditions": [ { "SkillName": "Mining", "SkillLevel": 10 } ] },
+	{
+	"Id": "GrandFatherLetterForaging01", "GroupId": "GrandFatherLetters",
 	"Text": "GrandFatherLetterForaging01",
     "Attachments": [ { "Type": "Object", "Name": "Moss", "Stack": 10 } ],
-	"SkillConditions": [ { "SkillName": "Foraging", "SkillLevel": 1 } ]
-	},
-
+	"SkillConditions": [ { "SkillName": "Foraging", "SkillLevel": 1 } ]	},
 	{
-	"Id": "GrandFatherLetterForaging10",
-    "GroupId": "GrandFatherLetters",
+	"Id": "GrandFatherLetterForaging10", "GroupId": "GrandFatherLetters",
 	"Text": "GrandFatherLetterForaging10",
-    "Attachments": [
-        { "Type": "Object",	"Name": "Mystic Tree Seed", "Stack": 1 } ],
-		"SkillConditions": [ { "SkillName": "Foraging", "SkillLevel": 10 } ]
-	},
-
-{
-	"Id": "GrandFatherLetterFishing01",
-    "GroupId": "GrandFatherLetters",
+    "Attachments": [ { "Type": "Object", "Name": "Mystic Tree Seed", "Stack": 1 } ],
+	"SkillConditions": [ { "SkillName": "Foraging", "SkillLevel": 10 } ] },
+	{
+	"Id": "GrandFatherLetterFishing01", "GroupId": "GrandFatherLetters",
 	"Text": "GrandFatherLetterFishing01",
     "Attachments": [ { "Type": "Object", "Name": "Dressed Spinner", "Stack": 1 } ],
-	"SkillConditions": [ { "SkillName": "Fishing", "SkillLevel": 1 } ]
-	},
-
+	"SkillConditions": [ { "SkillName": "Fishing", "SkillLevel": 1 } ] },
 	{
-	"Id": "GrandFatherLetterFishing10",
-    "GroupId": "GrandFatherLetters",
+	"Id": "GrandFatherLetterFishing10", "GroupId": "GrandFatherLetters",
 	"Text": "GrandFatherLetterFishing10",
-    "Attachments": [
-        { "Type": "Object",	"Name": "Quality Bobber", "Stack": 1 } ],
-		"SkillConditions": [ { "SkillName": "Fishing", "SkillLevel": 10 } ]
-	},
-
+    "Attachments": [ { "Type": "Object", "Name": "Quality Bobber", "Stack": 1 } ],
+	"SkillConditions": [ { "SkillName": "Fishing", "SkillLevel": 10 } ] },
 	{
-	"Id": "GrandFatherLetterCombat01",
-    "GroupId": "GrandFatherLetters",
+	"Id": "GrandFatherLetterCombat01", "GroupId": "GrandFatherLetters",
 	"Text": "GrandFatherLetterCombat01",
     "Attachments": [ { "Type": "Object", "Name": "Oil of Garlic", "Stack": 1 } ],
-	"SkillConditions": [ { "SkillName": "Combat", "SkillLevel": 1 } ]
-	},
-
+	"SkillConditions": [ { "SkillName": "Combat", "SkillLevel": 1 } ] },
 	{
-	"Id": "GrandFatherLetterCombat10",
-    "GroupId": "GrandFatherLetters",
+	"Id": "GrandFatherLetterCombat10", "GroupId": "GrandFatherLetters",
 	"Text": "GrandFatherLetterCombat10",
-    "Attachments": [
-        { "Type": "Object",	"Name": "Monster Musk", "Stack": 1 } ],
-		"SkillConditions": [ { "SkillName": "Combat", "SkillLevel": 10 } ]
-	}
+    "Attachments": [ { "Type": "Object", "Name": "Monster Musk", "Stack": 1 } ],
+	"SkillConditions": [ { "SkillName": "Combat", "SkillLevel": 10 } ] }
 ]
