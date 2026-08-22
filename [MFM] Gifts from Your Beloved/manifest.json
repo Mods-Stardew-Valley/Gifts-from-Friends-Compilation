@@ -1,7 +1,7 @@
 {
 	"Name": "Gifts from your beloved",
 	"Author": "LoganDoidao",
-	"Version": "1.1.1",
+	"Version": "1.2.0",
 	"Description": "Your spouse sends you heartfelt letters and gifts.",
 	"UniqueID": "LoganDoidao.GiftsFromYourBeloved",
 	"UpdateKeys": [ "Nexus:48257" ],
