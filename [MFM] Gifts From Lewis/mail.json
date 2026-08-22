@@ -1,113 +1,104 @@
 [
 //Reset Lewis
-{	"Id":"ResetLewis1.4.0",
+{	"Id":"ResetLewis1.5.0",
 		"AutoOpen": true,
-		"MailNotReceived": ["ResetLewis1.4.0"],
-	   
 		"MailReceivedToRemove": [
-		"ResetLewis",
-		"Lewis_1_Heart",
-		"Lewis_2_Heart",
-		"Lewis_3_Heart",
-		"Lewis_4_Heart",
-		"Lewis_5_Heart",
-		"Lewis_6_Heart",
-		"Lewis_7_Heart",
-		"Lewis_8_Heart",
-		"Lewis_9_Heart",
-		"Lewis_10_Heart"
+		"ResetLewis", "ResetLewis1.4.0", "Lewis_1_Heart",	"Lewis_2_Heart",
+		"Lewis_3_Heart", "Lewis_4_Heart", "Lewis_5_Heart", "Lewis_6_Heart",
+		"Lewis_7_Heart", "Lewis_8_Heart",	"Lewis_9_Heart", "Lewis_10_Heart"
 		]
 },
   {
     "Id": "Lewis_1_Heart",
+    "GroupId": "LewisLetters",
     "Text": "lewis_1",
     "Attachments": [ { "Type": "Object", "Index": "433", "Stack": 5 } ],	//Coffee Bean
     "FriendshipConditions": [ { "NpcName": "Lewis", "FriendshipLevel": 1 } ]
   },
   {
     "Id": "Lewis_2_Heart",
+    "GroupId": "LewisLetters",
     "Text": "lewis_2",
     "Attachments": [ { "Type": "Object", "Index": "340", "Stack": 1 } ],	//Honey
-    "FriendshipConditions": [ { "NpcName": "Lewis", "FriendshipLevel": 2 } ],
-	"MailReceived": ["Lewis_1_Heart"]
+    "FriendshipConditions": [ { "NpcName": "Lewis", "FriendshipLevel": 2 } ]
   },
   {
     "Id": "Lewis_3_Heart",
+    "GroupId": "LewisLetters",
     "Text": "lewis_3",
     "Attachments": [ { "Type": "Object", "Index": "307", "Stack": 1 } ],	//Duck Mayonnaise
-    "FriendshipConditions": [ { "NpcName": "Lewis", "FriendshipLevel": 3 } ],
-	"MailReceived": ["Lewis_2_Heart"]
+    "FriendshipConditions": [ { "NpcName": "Lewis", "FriendshipLevel": 3 } ]
   },
   {
     "Id": "Lewis_4_Heart",
+    "GroupId": "LewisLetters",
     "Text": "lewis_4",
     "Attachments": [ { "Type": "Object", "Index": "424", "Stack": 1 } ],	//Cheese
-    "FriendshipConditions": [ { "NpcName": "Lewis", "FriendshipLevel": 4 } ],
-	"MailReceived": ["Lewis_3_Heart"]
+    "FriendshipConditions": [ { "NpcName": "Lewis", "FriendshipLevel": 4 } ]
   },
   {
     "Id": "Lewis_5_Heart",
+    "GroupId": "LewisLetters",
     "Text": "lewis_5",
     "Attachments": [ 
 		{ "Type": "Object", "Index": "395", "Stack": 1 },		//Coffee
 		{ "Type": "Object", "Index": "340", "Stack": 1 } 		//Honey
 		],
-    "FriendshipConditions": [ { "NpcName": "Lewis", "FriendshipLevel": 5 } ],
-	"MailReceived": ["Lewis_4_Heart"]
+    "FriendshipConditions": [ { "NpcName": "Lewis", "FriendshipLevel": 5 } ]
   },
   {
     "Id": "Lewis_6_Heart",
+    "GroupId": "LewisLetters",
     "Text": "lewis_6",
     "Attachments": [ { "Type": "Object", "Index": "348", "Stack": 1 } ],	//Wine
-    "FriendshipConditions": [ { "NpcName": "Lewis", "FriendshipLevel": 6 } ],
-	"MailReceived": ["Lewis_5_Heart"]
+    "FriendshipConditions": [ { "NpcName": "Lewis", "FriendshipLevel": 6 } ]
   },
   {
     "Id": "Lewis_7_Heart",
+    "GroupId": "LewisLetters",
     "Text": "lewis_7",
     "Attachments": [ 
 		{ "Type": "Object", "Index": "432", "Stack": 1 },		//Truffle Oil
 		{ "Type": "Object", "Index": "424", "Stack": 1 } 		//Cheese
 		],	
-    "FriendshipConditions": [ { "NpcName": "Lewis", "FriendshipLevel": 7 } ],
-	"MailReceived": ["Lewis_6_Heart"]
+    "FriendshipConditions": [ { "NpcName": "Lewis", "FriendshipLevel": 7 } ]
   },
   {
     "Id": "Lewis_8_Heart",
+    "GroupId": "LewisLetters",
     "Text": "lewis_8",
     "Attachments": [
 		{ "Type": "Object", "Index": "348", "Quality": 2, "Stack": 1 }, //Silver Wine
 		{ "Type": "Object", "Index": "430", "Stack": 1 }				//Truffle
 		],
-    "FriendshipConditions": [ { "NpcName": "Lewis", "FriendshipLevel": 8 } ],
-	"MailReceived": ["Lewis_7_Heart"]
+    "FriendshipConditions": [ { "NpcName": "Lewis", "FriendshipLevel": 8 } ]
   },
   {
     "Id": "Lewis_9_Heart",
+    "GroupId": "LewisLetters",
     "Text": "lewis_9",
     "Attachments": [
       { "Type": "Object", "Index": "348", "Quality": 3, "Stack": 1 },	//Golden Wine
       { "Type": "Object", "Index": "426", "Stack": 1 }					//Goat Cheese
     ],
-    "FriendshipConditions": [
-      { "NpcName": "Lewis", "FriendshipLevel": 9 }
-    ],
-	"MailReceived": ["Lewis_8_Heart"]
+    "FriendshipConditions": [ { "NpcName": "Lewis", "FriendshipLevel": 9 }]
   },
   {
     "Id": "Lewis_10_Heart",
+    "GroupId": "LewisLetters",
     "Text": "lewis_10",
     "Attachments": [
 		{ "Type": "Object", "Index": "348", "Quality": 4, "Stack": 1 },	//Iridium Wine
 		{ "Type": "Object", "Index": "166", "Stack": 1 }				//Treasure Chest
     ],
-    "FriendshipConditions": [ { "NpcName": "Lewis", "FriendshipLevel": 10 } ],
-	 "MailReceived": ["Lewis_9_Heart"]
+    "FriendshipConditions": [ { "NpcName": "Lewis", "FriendshipLevel": 10 } ]
   },
 	{
 	"Id": "Lewis_Repeatable",
-	"Repeatable": true,
-	"RandomChance": 0.075,
+  "GroupId": "LewisLetters",
+  "Text": "lewis_10",
+	"Repeteable": true,
+	"RandomChance": 0.1,
 	"FriendshipConditions": [ { "NpcName": "Lewis", "FriendshipLevel": 1 } ],
 	"RandomlyChooseAttachment": 1,
 	"Attachments": [

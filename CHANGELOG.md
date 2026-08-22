@@ -1,6 +1,9 @@
 # Changelog
 Todas as mudanças importantes deste projeto serão documentadas neste arquivo.
 
+## Version 
+
+    Version: 1.8.1
 
 ## v1.7.0 - 2026-07-31
 

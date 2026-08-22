@@ -1,0 +1,76 @@
+name: Auto Release
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'CHANGELOG.md'
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Extrair versão do CHANGELOG.md
+        id: version
+        run: |
+          VERSION=$(grep -m 1 '^# v' CHANGELOG.md | sed -E 's/^# v//')
+          echo "Versão detectada: $VERSION"
+          echo "version=$VERSION" >> "$GITHUB_OUTPUT"
+
+      - name: Validar versão
+        id: check
+        run: |
+          if [ -z "${{ steps.version.outputs.version }}" ] || [ "${{ steps.version.outputs.version }}" = "0.0.0" ]; then
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Verificar se a tag já existe
+        id: tagcheck
+        if: steps.check.outputs.skip == 'false'
+        run: |
+          if git rev-parse "v${{ steps.version.outputs.version }}" >/dev/null 2>&1; then
+            echo "exists=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "exists=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Criar e enviar tag
+        if: steps.check.outputs.skip == 'false' && steps.tagcheck.outputs.exists == 'false'
+        run: |
+          git tag "v${{ steps.version.outputs.version }}"
+          git push origin "v${{ steps.version.outputs.version }}"
+
+      - name: Empacotar mod em zip
+        if: steps.check.outputs.skip == 'false' && steps.tagcheck.outputs.exists == 'false'
+        run: |
+          ZIP_NAME="${{ github.event.repository.name }}-v${{ steps.version.outputs.version }}.zip"
+          zip -r "$ZIP_NAME" . \
+            -x ".git/*" \
+            -x ".git-cliff/*" \
+            -x ".scripts/*" \
+            -x ".github/*" \
+            -x ".gitattributes" \
+            -x "cliff.toml" \
+            -x "README.md" \
+            -x "README.bbcode" \
+            -x "CHANGELOG.md" \
+            -x "*.zip"
+
+      - name: Criar Release
+        if: steps.check.outputs.skip == 'false' && steps.tagcheck.outputs.exists == 'false'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: "v${{ steps.version.outputs.version }}"
+          name: "${{ github.event.repository.name }} v${{ steps.version.outputs.version }}"
+          body_path: README.md
+          files: "${{ github.event.repository.name }}-v${{ steps.version.outputs.version }}.zip"
