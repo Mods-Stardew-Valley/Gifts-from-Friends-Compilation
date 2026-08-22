@@ -5,6 +5,17 @@ Todas as mudanças importantes deste projeto serão documentadas neste arquivo.
 
     Version: 1.8.1
 
+### Alterações da versão 1.8.1
+    
+#### Correções 
+    Corrigido bug de erro no mod do Lewis
+    Adicionado texto correto a carta repetivel 
+    Adicionado grupos para as cartas evitando multiplas entregas por dia
+    
+#### Novidades    
+    Adicionado novas traduções para Dinamarques e Tailandes
+
+
 ## v1.7.0 - 2026-07-31
 
 
