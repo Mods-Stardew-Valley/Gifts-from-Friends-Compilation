@@ -1,4 +1,4 @@
-###### Gifts From Friends Compilation
+# Gifts From Friends Compilation
 
 A compilation of all my mods together to make the installation process easier and faster.
 
@@ -24,7 +24,7 @@ Repeatable letters and much more!
 But don't go thinking your spouse has forgotten you.
 Their gifts will also come with this compilation.
 
-**[size=4]✨ Features[/size]**
+## **✨ Features**
 
 ✔ Unique gifts for every friendship level
 ✔ Character themed rewards
@@ -35,46 +35,42 @@ Their gifts will also come with this compilation.
 ✔ Compatible with existing saves
 
 
-###### Containing the Mods
-[spoiler]
-[list=1]
--  v1.0.1 - Gifts from Abigail - Spooky Mail and Cave Loot from a Goth Girl
--  v1.0.2 - Gifts from Alex - Meals and Motivation for Hard Work
--  v1.3.0 - Gifts from Caroline - Teas and Gardening
--  v1.0.2 - Gifts from Clint - Forged Through Friendship
--  v1.0.1 - Gifts from Demetrius - Field Research Deliveries
--  v1.1.1 - Gifts from Dwarf - Treasures of the Deep
--  v1.0.0 - Gifts from Elliott - A Writers Keepsakes
--  v1.2.0 - Gifts from Emilly - Spiritual Vibes and Handmade Styles
--  v1.2.0 - Gifts from Evelyn - A Garden of Memories
--  v1.0.2 - Gifts from George - A Rough Kindness
--  v1.0.0 - Gifts from Grandpas [Compilation Exclusive]
--  v1.0.0 - Gifts from Gus - Bar Talk and Homemade Food
--  v1.0.0 - Gifts from Haley - Flowers Sunshine and Sweet Moments
--  v1.0.0 - Gifts from Harvey - A Doctors Care
--  v1.2.0 - Gifts from Jas - Cute Letters and Nature Gifts
--  v1.0.1 - Gifts from Jodi - Homemade Family Meals
--  v1.0.1 - Gifts from Kent - Practical Gifts and Usefull Surprises
--  v1.0.1 - Gifts from Krobus - A Gentle Shadow of the Sewers
--  v1.2.1 - Gifts from Leah - Nature Gifts and Inspired Art
--  v1.4.0 - Gifts from Lewis - Mayors Luxuries
--  v1.1.0 - Gifts from Linus - Simple Living and Nature's Gifts
--  v1.2.1 - Gifts from Marlon - Adventurer Gear and Dungeon Supplies
--  v1.2.0 - Gifts from Marnie - Cozy Farm Gifts and Animal Care
--  v1.1.1 - Gifts from Pam - Roadside Finds Useful Tools
--  v1.1.0 - Gifts from Pierre - Fresh Seeds and Farm Supplies
--  v1.1.0 - Gifts from Robin - Crafts and Carpentry
--  v1.0.1 - Gifts from Sam - Friendship Mixtape
--  v1.0.2 - Gifts from Sandy - Oasis Supplies
--  v1.0.1 - Gifts from Sebastian - Hello... Farmer
--  v1.0.2 - Gifts from Shane - One Letter at a Time
--  v1.3.0 - Gifts from Vincent - Playful Letters and Random Gifts
--  v1.0.1 - Gifts from Willy - Fisherman's Tales and Fishing Gear
--  v1.1.0 - Gifts from Wizard - Arcane Gifts and Mystical Items
--  v1.1.1 - Gifts from Your Beloved
-[/spoiler]
+### Containing the Mods
+v1.0.1 - Gifts from Abigail - Spooky Mail and Cave Loot from a Goth Girl
+v1.0.2 - Gifts from Alex - Meals and Motivation for Hard Work
+v1.3.0 - Gifts from Caroline - Teas and Gardening
+v1.0.2 - Gifts from Clint - Forged Through Friendship
+v1.0.1 - Gifts from Demetrius - Field Research Deliveries
+v1.1.1 - Gifts from Dwarf - Treasures of the Deep
+v1.0.0 - Gifts from Elliott - A Writers Keepsakes
+v1.2.0 - Gifts from Emilly - Spiritual Vibes and Handmade Styles
+v1.2.0 - Gifts from Evelyn - A Garden of Memories
+v1.0.2 - Gifts from George - A Rough Kindness
+v1.0.0 - Gifts from Grandpas [Compilation Exclusive]
+v1.0.0 - Gifts from Gus - Bar Talk and Homemade Food
+v1.0.0 - Gifts from Haley - Flowers Sunshine and Sweet Moments
+v1.0.0 - Gifts from Harvey - A Doctors Care
+v1.2.0 - Gifts from Jas - Cute Letters and Nature Gifts
+v1.0.1 - Gifts from Jodi - Homemade Family Meals
+v1.0.1 - Gifts from Kent - Practical Gifts and Usefull Surprises
+v1.0.1 - Gifts from Krobus - A Gentle Shadow of the Sewers
+v1.2.1 - Gifts from Leah - Nature Gifts and Inspired Art
+v1.5.0 - Gifts from Lewis - Mayors Luxuries
+v1.1.0 - Gifts from Linus - Simple Living and Nature's Gifts
+v1.2.1 - Gifts from Marlon - Adventurer Gear and Dungeon Supplies
+v1.2.0 - Gifts from Marnie - Cozy Farm Gifts and Animal Care
+v1.1.1 - Gifts from Pam - Roadside Finds Useful Tools
+v1.1.0 - Gifts from Pierre - Fresh Seeds and Farm Supplies
+v1.1.0 - Gifts from Robin - Crafts and Carpentry
+v1.0.1 - Gifts from Sam - Friendship Mixtape
+v1.0.2 - Gifts from Sandy - Oasis Supplies
+v1.0.1 - Gifts from Sebastian - Hello... Farmer
+v1.0.2 - Gifts from Shane - One Letter at a Time
+v1.3.0 - Gifts from Vincent - Playful Letters and Random Gifts
+v1.0.1 - Gifts from Willy - Fisherman's Tales and Fishing Gear
+v1.1.0 - Gifts from Wizard - Arcane Gifts and Mystical Items
+v1.2.0 - Gifts from Your Beloved
 
-[line]
 
 All these mods are tested and fully functional. They can be downloaded one by one or as a complete package. More mods will be added in the future to complete the entire collection of game characters, and the mods will also be individually updated with internal improvements and more translated languages. As the project is updated, this package will also be updated.
 
@@ -88,18 +84,15 @@ Tests were performed using the mobile version of the game and did not present an
 
 The game should work normally on any platform that supports mods, since mobile is the least robust for running many mods and it worked without problems.
 
-[line]
-
-[size=3]💬 Feel free to leave comments, suggestions, or emotional support.
+💬 Feel free to leave comments, suggestions, or emotional support.
 Don't forget to ⭐ Endorse ⭐ the mods you like! It costs nothing, takes two seconds, but it significantly boosts visibility. And it makes a modder very happy.
 Plus, it motivates me to keep updating and creating more content. 👍🏼
-[/size]###### Seriously. Do it.😄
+###### Seriously. Do it.😄
 
-[size=3]💖 Want to do more?[/size]
-Consider buying me a **[[size=4]Ko-Fi[/size]](https://ko-fi.com/logandoidao)** ☕
+### 💖 Want to do more?
+Consider buying me a **[Ko-Fi](https://ko-fi.com/logandoidao)** ☕
 
-[size=3]📦 For more of my mods:[/size]
-[**[size=4]Click Here![/size]**](https://www.nexusmods.com/profile/LoganDoidao989)
+### 📦 For more of my mods:
+**[Click Here!](https://www.nexusmods.com/profile/LoganDoidao989)**
 
-[size=3]Source code of this mod is avaliable on[/size] [**[size=4]GitHub[/size]**](https://github.com/Mods-Stardew-Valley/Gifts-from-Friends-Compilation)
-
+Source code of this mod is available on **[GitHub](https://github.com/Mods-Stardew-Valley/Gifts-from-Friends-Compilation)**
