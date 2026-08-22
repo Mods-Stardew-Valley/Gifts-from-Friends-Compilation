@@ -1,32 +1,20 @@
 [
-{	"Id":"ResetEmily1",
+{	"Id":"ResetEmilyAgain",
 	"AutoOpen": true,
-	"MailNotReceived": ["ResetEmily1"], 
 	"MailReceivedToRemove": [
-	   "GiftsFromEmily_Lv1",
-   	   "GiftsFromEmily_Lv1_Sewing",
-	   "GiftsFromEmily_Lv2",
-   	   "GiftsFromEmily_Lv2_Sewing",
-	   "GiftsFromEmily_Lv3",
-   	   "GiftsFromEmily_Lv3_Sewing",
-	   "GiftsFromEmily_Lv4",
-   	   "GiftsFromEmily_Lv4_Sewing",
-	   "GiftsFromEmily_Lv5",
-   	   "GiftsFromEmily_Lv5_Sewing",
-	   "GiftsFromEmily_Lv6",
-   	   "GiftsFromEmily_Lv6_Sewing",
-	   "GiftsFromEmily_Lv7",
-   	   "GiftsFromEmily_Lv7_Sewing",
-	   "GiftsFromEmily_Lv8",
-   	   "GiftsFromEmily_Lv8_Sewing",
-	   "GiftsFromEmily_Lv9",
-   	   "GiftsFromEmily_Lv9_Sewing",
-	   "GiftsFromEmily_Lv10",
-   	   "GiftsFromEmily_Lv10_Sewing",
-     "ResetEmily"  
+	   "GiftsFromEmily_Lv1", "GiftsFromEmily_Lv1_Sewing",
+	   "GiftsFromEmily_Lv2", "GiftsFromEmily_Lv2_Sewing",
+	   "GiftsFromEmily_Lv3", "GiftsFromEmily_Lv3_Sewing",
+	   "GiftsFromEmily_Lv4", "GiftsFromEmily_Lv4_Sewing",
+	   "GiftsFromEmily_Lv5", "GiftsFromEmily_Lv5_Sewing",
+	   "GiftsFromEmily_Lv6", "GiftsFromEmily_Lv6_Sewing",
+	   "GiftsFromEmily_Lv7", "GiftsFromEmily_Lv7_Sewing",
+	   "GiftsFromEmily_Lv8", "GiftsFromEmily_Lv8_Sewing",
+	   "GiftsFromEmily_Lv9", "GiftsFromEmily_Lv9_Sewing",
+	   "GiftsFromEmily_Lv10", "GiftsFromEmily_Lv10_Sewing",
+     "ResetEmily", "ResetEmily1"
 	]
 },
-
   {
     "Id": "GiftsFromEmily_Lv1",
     "Text": "emily.mail.lv1",
@@ -36,7 +24,6 @@
     ],
     "ExpandedPreconditions": ["f Emily 250"]
   },
-
   {
     "Id": "GiftsFromEmily_Lv1_Sewing",
     "Text": "emily.mail.lv1.sewing",
@@ -45,9 +32,7 @@
     ],
     "ExpandedPreconditions": ["f Emily 250/e 591"],
 	"MailReceived": ["GiftsFromEmily_Lv1"]
-	
   },
-
   {
     "Id": "GiftsFromEmily_Lv2",
     "Text": "emily.mail.lv2",
@@ -57,8 +42,7 @@
     ],
     "ExpandedPreconditions": ["f Emily 500"],
 	"MailReceived": ["GiftsFromEmily_Lv1"]
-   },
-
+  },
   {
     "Id": "GiftsFromEmily_Lv2_Sewing",
     "Text": "emily.mail.lv2.sewing",
@@ -68,7 +52,6 @@
     "ExpandedPreconditions": ["f Emily 500/e 591"],
 	"MailReceived": ["GiftsFromEmily_Lv1_Sewing"]
   },
-
   {
     "Id": "GiftsFromEmily_Lv3",
     "Text": "emily.mail.lv3",
@@ -79,7 +62,6 @@
     "ExpandedPreconditions": ["f Emily 750"],
 	"MailReceived": ["GiftsFromEmily_Lv2"]
   },
-
   {
     "Id": "GiftsFromEmily_Lv3_Sewing",
     "Text": "emily.mail.lv3.sewing",
@@ -89,7 +71,6 @@
     "ExpandedPreconditions": ["f Emily 750/e 591"],
 	"MailReceived": ["GiftsFromEmily_Lv2_Sewing"]
   },
-
   {
     "Id": "GiftsFromEmily_Lv4",
     "Text": "emily.mail.lv4",
@@ -100,7 +81,6 @@
     "ExpandedPreconditions": ["f Emily 1000"],
 	"MailReceived": ["GiftsFromEmily_Lv3"]
   },
-
   {
     "Id": "GiftsFromEmily_Lv4_Sewing",
     "Text": "emily.mail.lv4.sewing",
@@ -110,7 +90,6 @@
     "ExpandedPreconditions": ["f Emily 1000/e 591"],
 	"MailReceived": ["GiftsFromEmily_Lv3_Sewing"]
   },
-
   {
     "Id": "GiftsFromEmily_Lv5",
     "Text": "emily.mail.lv5",
@@ -121,7 +100,6 @@
     "ExpandedPreconditions": ["f Emily 1250"],
 	"MailReceived": ["GiftsFromEmily_Lv4"]
   },
-
   {
     "Id": "GiftsFromEmily_Lv5_Sewing",
     "Text": "emily.mail.lv5.sewing",
@@ -131,7 +109,6 @@
     "ExpandedPreconditions": ["f Emily 1250/e 591"],
 	"MailReceived": ["GiftsFromEmily_Lv4_Sewing"]
   },
-
   {
     "Id": "GiftsFromEmily_Lv6",
     "Text": "emily.mail.lv6",
@@ -141,7 +118,6 @@
     "ExpandedPreconditions": ["f Emily 1500"],
 	"MailReceived": ["GiftsFromEmily_Lv5"]
   },
-
   {
     "Id": "GiftsFromEmily_Lv6_Sewing",
     "Text": "emily.mail.lv6.sewing",
@@ -152,7 +128,6 @@
     "ExpandedPreconditions": ["f Emily 1500/e 591"],
 	"MailReceived": ["GiftsFromEmily_Lv5_Sewing"]
   },
-
   {
     "Id": "GiftsFromEmily_Lv7",
     "Text": "emily.mail.lv7",
@@ -163,7 +138,6 @@
     "ExpandedPreconditions": ["f Emily 1750"],
 	"MailReceived": ["GiftsFromEmily_Lv6"]
   },
-
   {
     "Id": "GiftsFromEmily_Lv7_Sewing",
     "Text": "emily.mail.lv7.sewing",
@@ -173,7 +147,6 @@
     "ExpandedPreconditions": ["f Emily 1750/e 591"],
 	"MailReceived": ["GiftsFromEmily_Lv6_Sewing"]
   },
-
   {
     "Id": "GiftsFromEmily_Lv8",
     "Text": "emily.mail.lv8",
@@ -184,7 +157,6 @@
     "ExpandedPreconditions": ["f Emily 2000"],
 	"MailReceived": ["GiftsFromEmily_Lv7"]
   },
-
   {
     "Id": "GiftsFromEmily_Lv8_Sewing",
     "Text": "emily.mail.lv8.sewing",
@@ -194,7 +166,6 @@
     "ExpandedPreconditions": ["f Emily 2000/e 591"],
 	"MailReceived": ["GiftsFromEmily_Lv7_Sewing"]
   },
-
   {
     "Id": "GiftsFromEmily_Lv9",
     "Text": "emily.mail.lv9",
@@ -205,7 +176,6 @@
     "ExpandedPreconditions": ["f Emily 2250"],
 	"MailReceived": ["GiftsFromEmily_Lv8"]
   },
-
   {
     "Id": "GiftsFromEmily_Lv9_Sewing",
     "Text": "emily.mail.lv9.sewing",
@@ -215,7 +185,6 @@
     "ExpandedPreconditions": ["f Emily 2250/e 591"],
 	"MailReceived": ["GiftsFromEmily_Lv8_Sewing"]
   },
-
   {
     "Id": "GiftsFromEmily_Lv10",
     "Text": "emily.mail.lv10",
@@ -226,7 +195,6 @@
     "ExpandedPreconditions": ["f Emily 2500"],
 	"MailReceived": ["GiftsFromEmily_Lv9"]
   },
-
   {
     "Id": "GiftsFromEmily_Lv10_Sewing",
     "Text": "emily.mail.lv10.sewing",
