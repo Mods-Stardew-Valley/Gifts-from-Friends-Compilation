@@ -1,22 +1,8 @@
 [
-   {
-		"Id": "MailWizard01",
-		"Text": "MailWizard01",
-		"WhichBG": 2, 
-		"Attachments": [
-			{
-				"Type": "Object",
-				"Name": "Rain Totem",
-				"Stack": 3
-			}
-		],
-		"FriendshipConditions": [
-			{
-				"NpcName": "Wizard",
-				"FriendshipLevel": 1
-			}
-		]
-	},  
+   { "Id": "MailWizard01", "Text": "MailWizard01", "GroupId": "WizardLetters",
+	"Attachments": [ "Type": "Object", "Name": "Rain Totem", "Stack": 3 ],
+	"FriendshipConditions": [ { "NpcName": "Wizard", "FriendshipLevel": 1 } ]
+	},
 	{
 		"Id": "MailWizard02",
 		"Text": "MailWizard02",
