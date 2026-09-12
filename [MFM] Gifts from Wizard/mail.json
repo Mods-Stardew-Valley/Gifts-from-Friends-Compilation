@@ -1,119 +1,46 @@
 [
    { 
-	"Id": "MailWizard01", "Text": "MailWizard01", "GroupId": "WizardLetters",
+	"Id": "MailWizard01", "Text": "MailWizard01", "GroupId": "WizardLetters","WhichBG": 2,
 	"Attachments": [ { "Type": "Object", "Name": "Rain Totem", "Stack": 3 } ],
 	"FriendshipConditions": [ { "NpcName": "Wizard", "FriendshipLevel": 1 } ]
 	},
+
 	{
-	"Id": "MailWizard02", "Text": "MailWizard02", "GroupId": "WizardLetters",
-		"WhichBG": 2, 
-		"Attachments": [
-			{
-				"Type": "Object",
-				"Name": "Tea Leaves",
-				"Stack": 3
-			}
-		],
-       
-		"FriendshipConditions": [
-			{
-				"NpcName": "Wizard",
-				"FriendshipLevel": 2
-			}
-		]
-	}, 
+	"Id": "MailWizard02", "Text": "MailWizard02", "GroupId": "WizardLetters","WhichBG": 2,
+	"Attachments": [{"Type": "Object","Name": "Tea Leaves","Stack": 3}],   
+	"FriendshipConditions": [{"NpcName": "Wizard","FriendshipLevel": 2}]
+	},
+
 	{
-		"Id": "MailWizard03",
-		"Text": "MailWizard03", "GroupId": "WizardLetters",
-		"WhichBG": 2, 
-		"Attachments": [
-			{
-				"Type": "Object",
-				"Index": 251,
-				"Stack": 5
-			}
-		],
-		"FriendshipConditions": [
-			{
-				"NpcName": "Wizard",
-				"FriendshipLevel": 3
-			}
-		]
-	}, 
+	"Id": "MailWizard03","Text": "MailWizard03", "GroupId": "WizardLetters","WhichBG": 2, 
+	"Attachments": [{"Type": "Object","Index": 251,"Stack": 5}],
+	"FriendshipConditions": [{"NpcName": "Wizard","FriendshipLevel": 3}]
+	},
+
 	{
-		"Id": "MailWizard04",
-		"Text": "MailWizard04", "GroupId": "WizardLetters",
-		"WhichBG": 2, 
-		"Attachments": [
-			{
-				"Type": "Object",
-				"Name": "Rabbit's Foot",
-				"Stack": 1
-			}
-		],
-		"FriendshipConditions": [
-			{
-				"NpcName": "Wizard",
-				"FriendshipLevel": 4
-			}
-		]
+	"Id": "MailWizard04","Text": "MailWizard04", "GroupId": "WizardLetters","WhichBG": 2, 
+	"Attachments": [{"Type": "Object","Name": "Rabbit's Foot","Stack": 1}],
+	"FriendshipConditions": [{"NpcName": "Wizard","FriendshipLevel": 4}]
 	}, 
+
 	{
-		"Id": "MailWizard05",
-		"Text": "MailWizard05", "GroupId": "WizardLetters",
-		"WhichBG": 2, 
-		"Attachments": [
-			{
-				"Type": "Object",
-				"Name": "Purple Mushroom",
-				"Stack": 4
-			}
-		],
-		"FriendshipConditions": [
-			{
-				"NpcName": "Wizard",
-				"FriendshipLevel": 5
-			}
-		]
-	}, 
+	"Id": "MailWizard05","Text": "MailWizard05", "GroupId": "WizardLetters","WhichBG": 2, 
+	"Attachments": [{"Type": "Object","Name": "Purple Mushroom","Stack": 4}],
+	"FriendshipConditions": [{"NpcName": "Wizard","FriendshipLevel": 5}]
+	},
+
 	{
-		"Id": "MailWizard06",
-		"Text": "MailWizard06", "GroupId": "WizardLetters",
-		"WhichBG": 2, 
-		"Attachments": [
-			{
-			//Totem para Fazenda
-				"Type": "Object",
-				"Index": 688,
-				"Stack": 5
-			}
-		],
-		"FriendshipConditions": [
-			{
-				"NpcName": "Wizard",
-				"FriendshipLevel": 6
-			}
-		]
-	}, 
+	"Id": "MailWizard06","Text": "MailWizard06", "GroupId": "WizardLetters","WhichBG": 2, 
+	"Attachments": [{"Type": "Object","Index": 688,"Stack": 5}],//Totem para Fazenda
+	"FriendshipConditions": [{"NpcName": "Wizard","FriendshipLevel": 6}]
+	},
+
 	{
-		"Id": "MailWizard07",
-		"Text": "MailWizard07", "GroupId": "WizardLetters",
-		"WhichBG": 2, 
-		"Attachments": [
-			{
-			//Totem para Montanhas 
-				"Type": "Object",
-				"Index": 689,
-				"Stack": 3
-			}
-		],
-		"FriendshipConditions": [
-			{
-				"NpcName": "Wizard",
-				"FriendshipLevel": 7
-			}
-		]
-	}, 
+	"Id": "MailWizard07","Text": "MailWizard07", "GroupId": "WizardLetters","WhichBG": 2, 
+	"Attachments": [{"Type": "Object","Index": 689,"Stack": 3}],//Totem para Montanhas 
+	"FriendshipConditions": [{"NpcName": "Wizard","FriendshipLevel": 7}]
+	},
+
 	{
 	"Id": "MailWizard08","Text": "MailWizard08", "GroupId": "WizardLetters","WhichBG": 2, 
 	"Attachments": [{"Type": "Object","Index": 690,"Stack": 3}], //Totem para Praia
@@ -124,8 +51,8 @@
 	"Id": "MailWizard09","Text": "MailWizard09", "GroupId": "WizardLetters","WhichBG": 2, 
 	"Attachments": [{ "Type": "Object","Name": "Green Tea","Stack": 1}],
 	"FriendshipConditions": [{"NpcName": "Wizard","FriendshipLevel": 9}]
-	}, 
-
+	},
+	 
 	{
 	"Id": "MailWizard10", "Text": "MailWizard10", "GroupId": "WizardLetters", "WhichBG": 2, 
 	"Attachments": [{"Type": "Object","Name": "Stardrop","Stack": 1}],
