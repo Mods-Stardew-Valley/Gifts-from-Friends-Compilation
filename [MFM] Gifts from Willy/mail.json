@@ -1,154 +1,96 @@
 [
  {
-    "Id": "WillyGift1",
-    "Text": "WillyGift1",
+    "Id": "WillyGift1","Text": "WillyGift1","GroupId": "WillyLetters",
     "Attachments": [
       { "Type": "Object", "Name": "Bait", "Stack": 10 },
       { "Type": "Object", "Name": "Chowder", "Stack": 1 }
     ],
-    "Repeatable": false,
-    "FriendshipConditions": [
-      { "NpcName": "Willy", "FriendshipLevel": 1 }
-    ]
+    "FriendshipConditions": [{ "NpcName": "Willy", "FriendshipLevel": 1 }]
   },
 
-//lv 2
-
  {
-    "Id": "WillyGift2",
-    "Text": "WillyGift2",
+    "Id": "WillyGift2","Text": "WillyGift2","GroupId": "WillyLetters",
     "Attachments": [
       { "Type": "Object", "Name": "Wild Bait", "Stack": 5 },
       { "Type": "Object", "Name": "Spinner", "Stack": 1 },
-	  { "Type": "Object", "Name": "Chowder", "Stack": 1 }
+	    { "Type": "Object", "Name": "Chowder", "Stack": 1 }
     ],
-    "Repeatable": false,
-    "FriendshipConditions": [
-      { "NpcName": "Willy", "FriendshipLevel": 2 }
-    ]
+    "FriendshipConditions": [{ "NpcName": "Willy", "FriendshipLevel": 2 }]
   },
 
-//lv 3
-
 {
-    "Id": "WillyGift3",
-    "Text": "WillyGift3",
+    "Id": "WillyGift3","Text": "WillyGift3","GroupId": "WillyLetters",
     "Attachments": [
       { "Type": "Object", "Name": "Cork Bobber", "Stack": 1 },
       { "Type": "Object", "Name": "Trout Soup", "Stack": 1 }
     ],
-    "Repeatable": false,
-    "FriendshipConditions": [
-      { "NpcName": "Willy", "FriendshipLevel": 3 }
-    ]
+    "FriendshipConditions": [{ "NpcName": "Willy", "FriendshipLevel": 3 }]
   },
 
-//lv 4
-
  {
-    "Id": "WillyGift4",
-    "Text": "WillyGift4",
+    "Id": "WillyGift4","Text": "WillyGift4","GroupId": "WillyLetters",
     "Attachments": [
       { "Type": "Object", "Name": "Trap Bobber", "Stack": 1 },
       { "Type": "Object", "Name": "Clam", "Stack": 2 },
-	  { "Type": "Object", "Name": "Chowder", "Stack": 1 }
+	    { "Type": "Object", "Name": "Chowder", "Stack": 1 }
     ],
-    "Repeatable": false,
-    "FriendshipConditions": [
-      { "NpcName": "Willy", "FriendshipLevel": 4 }
-    ]
+    "FriendshipConditions": [{ "NpcName": "Willy", "FriendshipLevel": 4 }]
   },
 
-//lv 5
-
  {
-    "Id": "WillyGift5",
-    "Text": "WillyGift5",
+    "Id": "WillyGift5","Text": "WillyGift5","GroupId": "WillyLetters",
     "Attachments": [
       { "Type": "Object", "Name": "Cockle", "Stack": 2 },
       { "Type": "Object", "Name": "Mussel", "Stack": 2 },
-	  { "Type": "Object", "Name": "Trout Soup", "Stack": 1 }
+	    { "Type": "Object", "Name": "Trout Soup", "Stack": 1 }
     ],
-    "Repeatable": false,
-    "FriendshipConditions": [
-      { "NpcName": "Willy", "FriendshipLevel": 5 }
-    ]
+    "FriendshipConditions": [{ "NpcName": "Willy", "FriendshipLevel": 5 }]
   },
 
-//lv 6
-
  {
-    "Id": "WillyGift6",
-    "Text": "WillyGift6",
+    "Id": "WillyGift6","Text": "WillyGift6","GroupId": "WillyLetters",
     "Attachments": [
       { "Type": "Object", "Name": "Oyster", "Stack": 2 },
       { "Type": "Object", "Name": "Coral", "Stack": 1 },
-	  { "Type": "Object", "Name": "Chowder", "Stack": 1 }
+	    { "Type": "Object", "Name": "Chowder", "Stack": 1 }
     ],
-    "Repeatable": false,
-    "FriendshipConditions": [
-      { "NpcName": "Willy", "FriendshipLevel": 6 }
-    ]
-}, 
-
-//lv 7
+    "FriendshipConditions": [{ "NpcName": "Willy", "FriendshipLevel": 6 }]
+  }, 
 
   {
-    "Id": "WillyGift7",
-    "Text": "WillyGift7",
+    "Id": "WillyGift7","Text": "WillyGift7","GroupId": "WillyLetters",
     "Attachments": [
       { "Type": "Object", "Index": "242", "Stack": 1 },
       { "Type": "Object", "Name": "Sea Urchin", "Stack": 1 }
     ],
-    "Repeatable": false,
-    "FriendshipConditions": [
-      { "NpcName": "Willy", "FriendshipLevel": 7 }
-    ]
+    "FriendshipConditions": [{ "NpcName": "Willy", "FriendshipLevel": 7 }]
   },
 
-//lv 8
-
   {
-    "Id": "WillyGift8",
-    "Text": "WillyGift8",
+    "Id": "WillyGift8","Text": "WillyGift8","GroupId": "WillyLetters",
     "Attachments": [
       { "Type": "Object", "Name": "Crab", "Stack": 1 },
       { "Type": "Object", "Name": "Fish Stew", "Stack": 1 }
     ],
-    "Repeatable": false,
-    "FriendshipConditions": [
-      { "NpcName": "Willy", "FriendshipLevel": 8 }
-    ]
+    "FriendshipConditions": [{ "NpcName": "Willy", "FriendshipLevel": 8 }]
   },
 
-//lv 9
-
   {
-    "Id": "WillyGift9",
-    "Text": "WillyGift9",
+    "Id": "WillyGift9","Text": "WillyGift9","GroupId": "WillyLetters",
     "Attachments": [
       { "Type": "Object", "Name": "Nautilus Shell", "Stack": 1 },
       { "Type": "Object", "Name": "Lobster Bisque", "Stack": 1 }
     ],
-    "Repeatable": false,
-    "FriendshipConditions": [
-      { "NpcName": "Willy", "FriendshipLevel": 9 }
-    ]
+    "FriendshipConditions": [{ "NpcName": "Willy", "FriendshipLevel": 9 }]
   },
 
-//lv 10
-
   {
-    "Id": "WillyGift10",
-    "Text": "WillyGift10",
+    "Id": "WillyGift10","Text": "WillyGift10","GroupId": "WillyLetters",
     "Attachments": [
       { "Type": "Object", "Name": "Seafoam Pudding", "Stack": 1 },
       { "Type": "Object", "Name": "Deluxe Bait", "Stack": 10 },
       { "Type": "Object", "Name": "Dressed Spinner", "Stack": 1 }
     ],
-    "Repeatable": false,
-    "FriendshipConditions": [
-      { "NpcName": "Willy", "FriendshipLevel": 10 }
-    ]
+    "FriendshipConditions": [{ "NpcName": "Willy", "FriendshipLevel": 10 }]
   }
 ]
