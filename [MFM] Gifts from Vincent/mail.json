@@ -1,113 +1,73 @@
 [
-	{	"Id":"ResetVincent",
+	{	"Id":"ResetVincent1",
 		"AutoOpen": true,
 		  "MailReceivedToRemove": [
-			"VincentGift1",
-			"VincentGift2",
-			"VincentGift3",
-			"VincentGift4",
-			"VincentGift5",
-			"VincentGift6",
-			"VincentGift7",
-			"VincentGift8",
-			"VincentGift9",
-			"VincentGift10"
+      "ResetVincent",	"VincentGift1",	"VincentGift2",	"VincentGift3",	
+      "VincentGift4",	"VincentGift5",	"VincentGift6",	"VincentGift7",	
+      "VincentGift8",	"VincentGift9",	"VincentGift10"
 		]
 	},
 
   {
-    "Id": "VincentGift1",
-    "Text": "VincentGift1",
-    "WhichBG": 1,
+    "Id": "VincentGift1", "GroupId": "VincentLetters", "Text": "VincentGift1", "WhichBG": 1,
     "Attachments": [ { "Type": "Object", "Index": "390", "Stack": 10 } ],
     "FriendshipConditions": [ { "NpcName": "Vincent", "FriendshipLevel": 1 } ]
   },
   
   {
-    "Id": "VincentGift2",
-    "Text": "VincentGift2",
-    "WhichBG": 1,
+    "Id": "VincentGift2","GroupId": "VincentLetters", "Text": "VincentGift2", "WhichBG": 1,
     "Attachments": [ { "Type": "Object", "Name": "Clay", "Stack": 4 } ],
-    "MailReceived": ["VincentGift1" ],
     "FriendshipConditions": [ { "NpcName": "Vincent", "FriendshipLevel": 2 } ]
   },
   
   {
-    "Id": "VincentGift3",
-    "Text": "VincentGift3",
-    "WhichBG": 1,
+    "Id": "VincentGift3", "GroupId": "VincentLetters", "Text": "VincentGift3", "WhichBG": 1,
     "Attachments": [ { "Type": "Object", "Name": "Cockle", "Stack": 2 },
 					 { "Type": "Object", "Name": "Mussel", "Stack": 2 } ],
-	"MailReceived": ["VincentGift2" ],
-    "FriendshipConditions": [ { "NpcName": "Vincent", "FriendshipLevel": 3 } ]
+	  "FriendshipConditions": [ { "NpcName": "Vincent", "FriendshipLevel": 3 } ]
   },
   
   {
-    "Id": "VincentGift4",
-    "Text": "VincentGift4",
-    "WhichBG": 1,
+    "Id": "VincentGift4", "GroupId": "VincentLetters", "Text": "VincentGift4", "WhichBG": 1,
     "Attachments": [ { "Type": "Object", "Index": "114", "Stack": 1 } ],
-	"MailReceived": ["VincentGift3" ],
-    "FriendshipConditions": [ { "NpcName": "Vincent", "FriendshipLevel": 4 } ]
+	  "FriendshipConditions": [ { "NpcName": "Vincent", "FriendshipLevel": 4 } ]
   },
   
   {
-    "Id": "VincentGift5",
-    "Text": "VincentGift5",
-    "WhichBG": 1,
+    "Id": "VincentGift5", "GroupId": "VincentLetters", "Text": "VincentGift5", "WhichBG": 1,
     "Attachments": [ { "Type": "Object", "Name": "Spring Onion", "Stack": 4 } ],
-	"MailReceived": ["VincentGift4" ],
-    "FriendshipConditions": [ { "NpcName": "Vincent", "FriendshipLevel": 5 } ]
+	  "FriendshipConditions": [ { "NpcName": "Vincent", "FriendshipLevel": 5 } ]
   },
   
   {
-    "Id": "VincentGift6",
-    "Text": "VincentGift6",
-    "WhichBG": 1,
+    "Id": "VincentGift6", "GroupId": "VincentLetters", "Text": "VincentGift6", "WhichBG": 1,
     "Attachments": [ { "Type": "Object", "Index": "103", "Stack": 1 } ],
-	"MailReceived": ["VincentGift5" ],
-    "FriendshipConditions": [ { "NpcName": "Vincent", "FriendshipLevel": 6 } ]
+	  "FriendshipConditions": [ { "NpcName": "Vincent", "FriendshipLevel": 6 } ]
   },
   
   {
-    "Id": "VincentGift7",
-    "Text": "VincentGift7",
-    "WhichBG": 1,
+    "Id": "VincentGift7", "GroupId": "VincentLetters", "Text": "VincentGift7", "WhichBG": 1,
     "Attachments": [ { "Type": "Object", "Name": "Acorn", "Stack": 1 },
 					 { "Type": "Object", "Name": "Maple Seed", "Stack": 1 },
 					 { "Type": "Object", "Name": "Pine Cone", "Stack": 1 } ],
-	"MailReceived": ["VincentGift6" ],
-    "FriendshipConditions": [ { "NpcName": "Vincent", "FriendshipLevel": 7 } ]
+	  "FriendshipConditions": [ { "NpcName": "Vincent", "FriendshipLevel": 7 } ]
   },
   
   {
-    "Id": "VincentGift8",
-    "Text": "VincentGift8",
-    "WhichBG": 1,
+    "Id": "VincentGift8", "GroupId": "VincentLetters", "Text": "VincentGift8", "WhichBG": 1,
     "Attachments": [ { "Type": "Object", "Name": "Cookie", "Stack": 2 } ],
-	"MailReceived": ["VincentGift7" ],
-    "FriendshipConditions": [ { "NpcName": "Vincent", "FriendshipLevel": 8 } ]
+	  "FriendshipConditions": [ { "NpcName": "Vincent", "FriendshipLevel": 8 } ]
   },
   
   {
-    "Id": "VincentGift9",
-    "Text": "VincentGift9",
-    "WhichBG": 1,
-    "Attachments": [
-      { "Type": "Object", "Name": "Nautilus Shell", "Stack": 1 }
-    ],
-	"MailReceived": ["VincentGift8" ],
-    "FriendshipConditions": [ { "NpcName": "Vincent", "FriendshipLevel": 9 } ]
+    "Id": "VincentGift9", "GroupId": "VincentLetters", "Text": "VincentGift9", "WhichBG": 1,
+    "Attachments": [ { "Type": "Object", "Name": "Nautilus Shell", "Stack": 1 } ],
+	  "FriendshipConditions": [ { "NpcName": "Vincent", "FriendshipLevel": 9 } ]
   },
   
   {
-    "Id": "VincentGift10",
-    "Text": "VincentGift10",
-    "WhichBG": 1,
-    "Attachments": [
-      { "Type": "Object", "Name": "Rabbit's Foot", "Stack": 1 }
-    ],
-	"MailReceived": ["VincentGift9" ],
-    "FriendshipConditions": [ { "NpcName": "Vincent", "FriendshipLevel": 10 } ]
+    "Id": "VincentGift10", "GroupId": "VincentLetters", "Text": "VincentGift10", "WhichBG": 1,
+    "Attachments": [ { "Type": "Object", "Name": "Rabbit's Foot", "Stack": 1 } ],
+	  "FriendshipConditions": [ { "NpcName": "Vincent", "FriendshipLevel": 10 } ]
   }
 ]
