@@ -3,9 +3,13 @@ Todas as mudanças importantes deste projeto serão documentadas neste arquivo.
 
 ## Latest Version
 
-    Version: 1.8.1
+    Version: 1.8.2
 
-### Alterações da versão 1.8.1
+#### Correções 
+    Melhorias menores e correçoes no codigo e seu visual
+    Padronização de todas as cartas com GroupId
+
+## v1.8.1
     
 #### Correções 
     Corrigido bug de erro no mod do Lewis
