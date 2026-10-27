@@ -63,10 +63,10 @@ v1.1.1 - Gifts from Pam - Roadside Finds Useful Tools
 v1.1.0 - Gifts from Pierre - Fresh Seeds and Farm Supplies
 v1.1.0 - Gifts from Robin - Crafts and Carpentry
 v1.0.1 - Gifts from Sam - Friendship Mixtape
-v1.0.2 - Gifts from Sandy - Oasis Supplies
-v1.0.1 - Gifts from Sebastian - Hello... Farmer
-v1.0.2 - Gifts from Shane - One Letter at a Time
-v1.3.0 - Gifts from Vincent - Playful Letters and Random Gifts
+v1.0.3 - Gifts from Sandy - Oasis Supplies
+v1.0.2 - Gifts from Sebastian - Hello... Farmer
+v1.0.3 - Gifts from Shane - One Letter at a Time
+v1.3.1 - Gifts from Vincent - Playful Letters and Random Gifts
 v1.0.1 - Gifts from Willy - Fisherman's Tales and Fishing Gear
 v1.1.0 - Gifts from Wizard - Arcane Gifts and Mystical Items
 v1.2.0 - Gifts from Your Beloved
