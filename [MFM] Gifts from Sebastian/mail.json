@@ -1,22 +1,13 @@
 [
-    //Reset de progressao para mods apos a v1.0.0
-    //Remover comentarios quando atualizar a versão ou lançar correção
-    //{	
-    //"Id":"Reset Sebastian",
-	//"AutoOpen": true,
-    //"MailReceivedToRemove": [
-	//	"MailSebastian01",
-	//	"MailSebastian02",
-	//	"MailSebastian03",
-	//	"MailSebastian04",
-	//	"MailSebastian05",
-	//	"MailSebastian06",
-	//	"MailSebastian07",
-	//	"MailSebastian08",
-	//	"MailSebastian09",
-	//	"MailSebastian10"
-	//    ]
-    //},
+    {	
+    "Id":"ResetSebastian",
+	"AutoOpen": true,
+    "MailReceivedToRemove": [
+		"MailSebastian01",	"MailSebastian02",	"MailSebastian03",	"MailSebastian04",
+		"MailSebastian05",	"MailSebastian06",	"MailSebastian07",	"MailSebastian08",
+		"MailSebastian09",	"MailSebastian10"
+	    ]
+    },
 
 {
     "Id": "MailSebastian01", "GroupId": "SebastianLetters", "Text": "MailSebastian01",
