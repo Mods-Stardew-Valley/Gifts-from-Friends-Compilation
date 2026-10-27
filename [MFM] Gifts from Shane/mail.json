@@ -1,100 +1,72 @@
 [
     {	
-    "Id":"Reset Shane",
+    "Id":"ResetShane",
 	"AutoOpen": true,
     "MailReceivedToRemove": [
-		"MailShane01",
-		"MailShane02",
-		"MailShane03",
-		"MailShane04",
-		"MailShane05",
-		"MailShane06",
-		"MailShane07",
-		"MailShane08",
-		"MailShane09",
-		"MailShane10"
+		"MailShane01",	"MailShane02",	"MailShane03",	"MailShane04",	"MailShane05",
+		"MailShane06",	"MailShane07",	"MailShane08",	"MailShane09",	"MailShane10"
 	  ]
     },
 
 {
-    "Id": "MailShane01",
-    "GroupId": "ShaneLetters",
-    "Text": "MailShane01",
+    "Id": "MailShane01", "GroupId": "ShaneLetters", "Text": "MailShane01",
     "Attachments": [ { "Type": "Object","Name": "Joja Cola","Stack": 1 } ],
     "FriendshipConditions": [ { "NpcName": "Shane", "FriendshipLevel": 1 } ]
 },
 
 { 
-    "Id": "MailShane02",
-    "GroupId": "ShaneLetters",
-    "Text": "MailShane02",
+    "Id": "MailShane02", "GroupId": "ShaneLetters", "Text": "MailShane02",
     "Attachments": [ { "Type": "Object", "Name": "Beer", "Stack": 1 }],
     "FriendshipConditions": [ {"NpcName": "Shane","FriendshipLevel": 2 } ]
 },
 
 {
-    "Id": "MailShane03",
-    "GroupId": "ShaneLetters",
-    "Text": "MailShane03",
+    "Id": "MailShane03", "GroupId": "ShaneLetters", "Text": "MailShane03",
     "Attachments": [ { "Type": "Object", "Name": "Hot Pepper", "Stack": 1 } ],
     "FriendshipConditions": [ { "NpcName": "Shane", "FriendshipLevel": 3} ]
 },
 
 {
-    "Id": "MailShane04",
-    "GroupId": "ShaneLetters",
-    "Text": "MailShane04",
+    "Id": "MailShane04", "GroupId": "ShaneLetters", "Text": "MailShane04",
     "Attachments": [ { "Type": "Object", "Index": "174", "Stack": 1 } ], //Large White Egg
     "FriendshipConditions": [ { "NpcName": "Shane", "FriendshipLevel": 4 } ]
 },
 
 {
-    "Id": "MailShane05",
-    "GroupId": "ShaneLetters",
-    "Text": "MailShane05",
+    "Id": "MailShane05", "GroupId": "ShaneLetters", "Text": "MailShane05",
     "Attachments": [ { "Type": "Object", "Name": "Cheese", "Stack": 1 } ],
     "FriendshipConditions": [ { "NpcName": "Shane", "FriendshipLevel": 5 } ]
 },
 
 {
-    "Id": "MailShane06",
-    "GroupId": "ShaneLetters",
-    "Text": "MailShane06",
+    "Id": "MailShane06", "GroupId": "ShaneLetters", "Text": "MailShane06",
     "Attachments": [ { "Type": "Object", "Name": "Pizza", "Stack": 1 } ],
     "FriendshipConditions": [ { "NpcName": "Shane", "FriendshipLevel": 6 } ]
 },
 
 {
-    "Id": "MailShane07",
-    "GroupId": "ShaneLetters",
-    "Text": "MailShane07",
+    "Id": "MailShane07", "GroupId": "ShaneLetters", "Text": "MailShane07",
     "Attachments": [ { "Type": "Object", "Name": "Mayonnaise", "Stack": 1 },
                      { "Type": "Object", "Name": "Joja Cola", "Stack": 1 } ],
     "FriendshipConditions": [ { "NpcName": "Shane", "FriendshipLevel": 7 } ]
 },
 
 {
-    "Id": "MailShane08",
-    "GroupId": "ShaneLetters",
-    "Text": "MailShane08",
+    "Id": "MailShane08", "GroupId": "ShaneLetters", "Text": "MailShane08",
     "Attachments": [ { "Type": "Object", "Name": "Fried Egg", "Stack": 1 },
                      { "Type": "Object", "Name": "Omelet", "Stack": 1 } ],
     "FriendshipConditions": [ { "NpcName": "Shane", "FriendshipLevel": 8 } ]
 },
 
 {
-    "Id": "MailShane09",
-    "GroupId": "ShaneLetters",
-    "Text": "MailShane09",
+    "Id": "MailShane09", "GroupId": "ShaneLetters", "Text": "MailShane09",
     "Attachments": [ { "Type": "Object", "Name": "Void Egg", "Stack": 1 },
                      { "Type": "Object", "Name": "Strange Bun", "Stack": 1 } ],
     "FriendshipConditions": [ { "NpcName": "Shane", "FriendshipLevel": 9 } ]
 },
 
 {
-    "Id": "MailShane10",
-    "GroupId": "ShaneLetters",
-    "Text": "MailShane10",
+    "Id": "MailShane10", "GroupId": "ShaneLetters", "Text": "MailShane10",
     "Attachments": [ { "Type": "Object", "Index": "446", "Stack": 1 }, //Rabbit's Foot
                      { "Type": "Object", "Name": "Pizza", "Stack": 1 }, 
                      { "Type": "Object", "Name": "Joja Cola", "Stack": 1 }],
@@ -102,11 +74,8 @@
 },
 
 {
-	"Id": "ShaneRepeteable",
-    "GroupId": "ShaneLetters",
-    "Text": "ShaneRepeteable",
-	"Repeatable": true,
-	"RandomChance": 0.075,
+	"Id": "ShaneRepeteable", "GroupId": "ShaneLetters", "Text": "ShaneRepeteable",
+	"Repeatable": true, "RandomChance": 0.075,
 	"FriendshipConditions": [ { "NpcName": "Shane", "FriendshipLevel": 1 } ],
 	"RandomlyChooseAttachment": 1,
 	"Attachments": [
